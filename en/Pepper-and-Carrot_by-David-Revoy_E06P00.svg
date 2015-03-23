@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   width="2481"
+   height="663"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P00.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1438"
+     inkscape:window-height="842"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.60944264"
+     inkscape:cx="1297.4721"
+     inkscape:cy="208.26369"
+     inkscape:window-x="160"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/alex/Documents/PepperCarrot/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P00.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P00.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="663"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#301b0b;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(-748.4491,-120.8471)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="2405.8"
+           height="107.55731"
+           x="739.22333"
+           y="644.36664"
+           style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2993"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#301b0b;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 6 : The Potion Contest</flowPara></flowRoot>  </g>
+</svg>
