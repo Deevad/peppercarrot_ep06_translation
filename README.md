@@ -18,6 +18,8 @@ License
  
 * French     : David Revoy
 
+* Dutch      : Willem Sonke
+
 
 ## Fonts:
 
