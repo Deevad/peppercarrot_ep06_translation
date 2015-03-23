@@ -1,5 +1,6 @@
 # Pepper&Carrot translation project
 # Episode 06 : The potion challenge
+# WORK-IN-PROGRESS
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
