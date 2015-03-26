@@ -476,9 +476,9 @@
      inkscape:window-height="876"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.24595019"
-     inkscape:cx="1024.3797"
-     inkscape:cy="2436.1128"
+     inkscape:zoom="0.34782609"
+     inkscape:cx="1240.177"
+     inkscape:cy="1025.2743"
      inkscape:window-x="1276"
      inkscape:window-y="121"
      inkscape:window-maximized="1"
@@ -499,11 +499,11 @@
     <image
        sodipodi:absref="/home/willem/Git/peppercarrot_ep06_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -652,7 +652,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;text-anchor:start" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4527">Ze komt helemaal vanuit de grote Technologie-unie... Mag ik u voorstellen: de beeldschone en ingenieuze ingenious</flowPara></flowRoot>    <flowRoot
+         id="flowPara4527">Ze komt helemaal vanuit de Technologistische Unie... Mag ik u voorstellen: de beeldschone en ingenieuze</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-4-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -665,7 +665,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4529">Dit is onze lokale deelneemster, Komona's eigen heks</flowPara></flowRoot>    <flowRoot
+         id="flowPara4529">... niet te</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara7603">vergeten onze eigen Komonaanse deelneemster,</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-4-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -678,7 +680,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3941">... Onze derde kandidaat komt uit de landen van de ondergaande manen,</flowPara></flowRoot>    <flowRoot
+         id="flowPara3941">... uit de landen</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara7607">van de ondergaande manen, is hier onze derde kandidate</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-4-99"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -691,9 +695,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4535">... en ten slotte onze laatste deelnemer,</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4533">uit het bos bij Eekhoornvliet,</flowPara></flowRoot>    <flowRoot
+         id="flowPara4533">... en ten slotte onze laatste deelneemster, afkomstig uit het Eikhoornwoud,</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3095"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal"><flowRegion
@@ -744,18 +746,18 @@
          id="flowPara3109-9-9-7"
          style="font-size:48px;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Shichimi!</flowPara></flowRoot>    <flowRoot
        transform="matrix(1.1614703,0,0,1.3822798,1638.4059,-0.7845234)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot3103-0-9-3"
        xml:space="preserve"><flowRegion
          id="flowRegion3105-1-5-7"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="265.53046"
            x="120.55251"
            height="191.17474"
            width="541.5321"
            id="rect3107-0-2-2" /></flowRegion><flowPara
          id="flowPara3109-9-9-8"
-         style="font-size:48px;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">Pepper !</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pepper!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -785,7 +787,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4239">De winnaar zal worden bepaald door de</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4389">applaus-o-meter</flowPara></flowRoot>    <flowRoot
+         id="flowPara4389">applausmeter!</flowPara></flowRoot>    <flowRoot
        transform="translate(196.02576,1861.8014)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4212"
@@ -828,7 +830,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4411">... u hoeft de dood</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4375">niet meer te vrezen, vanwege ...</flowPara></flowRoot>    <path
+         id="flowPara4375">niet meer te vrezen, vanwege...</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1937.6537,2355.2513 c -109.7648,-7.8818 -270.7529,-33.498 -301.8531,-81.7743 -31.1,-48.2764 -23.7823,-108.3757 40.2472,-134.977 64.0292,-26.6013 173.7942,-49.2618 268.9237,-40.3947 95.1295,8.8672 219.5295,41.3799 248.8001,86.7006 29.2707,45.3208 1.8295,141.8738 -120.7411,160.593 -122.5708,18.7196 -135.3768,9.8524 -135.3768,9.8524 z"
        id="path3970-7-9"
@@ -859,7 +861,7 @@
            width="602.40173"
            id="rect4216-4-0-26" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4358-7">.. mijn Drank der </flowPara></flowRoot>    <flowRoot
+         id="flowPara4358-7">... mijn Drank der </flowPara></flowRoot>    <flowRoot
        transform="matrix(0.90617713,0,-0.22078013,1.6225798,1521.4457,1775.1189)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
