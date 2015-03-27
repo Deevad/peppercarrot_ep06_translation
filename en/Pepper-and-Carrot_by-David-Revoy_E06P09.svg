@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P09.svg">
@@ -48,15 +48,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1600"
+     inkscape:window-height="842"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000002"
-     inkscape:cx="1012.7998"
-     inkscape:cy="852.57092"
+     inkscape:cx="1191.0607"
+     inkscape:cy="3200.3969"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -65,13 +65,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
+       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep06_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -400,5 +400,5 @@
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
    style="font-size:40.7292366px"
-   id="flowSpan3980">March 2015 - </flowSpan>Artworks and story by David Revoy - Translation by Alex Gryson  </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
+   id="flowSpan3980">March 2015 - </flowSpan>Artwork and story by David Revoy - Translation by Alex Gryson  </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
 </svg>

@@ -234,8 +234,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.43289492"
-     inkscape:cx="1269.6038"
-     inkscape:cy="2682.7787"
+     inkscape:cx="1181.8227"
+     inkscape:cy="2775.1799"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -246,13 +246,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Google Drive/Design/Digital Art/PepperCarrot/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
+       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep06_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -417,7 +417,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4609">Shichimi, </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4100">everyone is </flowPara><flowPara
+         id="flowPara4100">everyone's </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4611">waiting for you </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
