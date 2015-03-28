@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P02.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-width="1920"
+     inkscape:window-height="1041"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
      inkscape:cx="1098.6967"
-     inkscape:cy="123.16164"
+     inkscape:cy="1053.5964"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/PepperCarrot/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
+       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -173,7 +173,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3124" /></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1809.3612,3133.0925 c 8.978,-84.0852 141.9813,-106.8278 249.5088,-100.6177 107.5275,6.2101 259.3864,33.9851 256.6637,94.4256 -2.7228,60.4406 -36.5552,115.2502 -65.5141,124.4138 -28.9587,9.1635 -179.13,17.9947 -223.6685,15.8393 -44.5383,-2.1555 -226.0265,20.4542 -216.9899,-134.061 z"
+       d="m 1791.9811,3133.0925 c 9.2862,-84.0852 146.8561,-106.8278 258.0754,-100.6177 111.2193,6.2101 268.2921,33.9851 265.476,94.4256 -2.8163,60.4406 -37.8103,115.2502 -67.7635,124.4138 -29.953,9.1635 -185.2802,17.9947 -231.3479,15.8393 -46.0675,-2.1555 -233.7869,20.4542 -224.44,-134.061 z"
        id="path4974"
        inkscape:connector-curvature="0" />
     <flowRoot

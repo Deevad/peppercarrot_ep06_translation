@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P09.svg">
@@ -48,15 +48,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="876"
+     inkscape:window-width="1920"
+     inkscape:window-height="1041"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000002"
-     inkscape:cx="1245.3443"
-     inkscape:cy="720.51246"
-     inkscape:window-x="1276"
-     inkscape:window-y="121"
+     inkscape:zoom="0.52900002"
+     inkscape:cx="1147.32"
+     inkscape:cy="3201.7112"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -65,13 +65,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/willem/Git/peppercarrot_ep06_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
+       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -119,7 +119,7 @@
        sodipodi:nodetypes="csssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1623.8201,435.39824 c 44.8711,-10.8171 54.1774,-0.16815 63.7635,12.84937 9.5861,13.01743 16.8223,25.92299 27.3594,27.20978 10.5371,1.2868 24.0955,-3.17063 33.7373,-7.81443 9.6419,-4.64389 16.3969,2.70419 24.6774,10.16404 8.2806,7.45986 61.0745,35.52734 61.0745,35.52734 0,0 -16.8411,-42.01779 -26.1287,-53.0584 -9.2876,-11.04059 -12.6259,-15.12489 -17.5681,-18.50045 -4.9422,-3.37558 -18.3701,-9.90297 -29.4667,-7.68351 -11.0966,2.21938 -20.4774,9.62342 -28.4968,13.16683 -8.0192,3.54351 -21.1553,-0.45764 -30.5735,-8.75676 -9.4182,-8.2991 -33.6405,-23.89753 -51.1713,-18.45172 -17.5306,5.44581 -27.207,15.34791 -27.207,15.34791 z"
+       d="m 1599.2454,548.81979 c 44.8711,-10.8171 54.1774,-0.16815 63.7635,12.84937 9.5861,13.01743 16.8223,25.92299 27.3594,27.20978 10.5371,1.2868 24.0955,-3.17063 33.7373,-7.81443 9.6419,-4.64389 16.3969,2.70419 24.6774,10.16404 8.2806,7.45986 61.0745,35.52734 61.0745,35.52734 0,0 -16.8411,-42.01779 -26.1287,-53.0584 -9.2876,-11.04059 -12.6259,-15.12489 -17.5681,-18.50045 -4.9422,-3.37558 -18.3701,-9.90297 -29.4667,-7.68351 -11.0966,2.21938 -20.4774,9.62342 -28.4968,13.16683 -8.0192,3.54351 -21.1553,-0.45764 -30.5735,-8.75676 -9.4182,-8.2991 -33.6405,-23.89753 -51.1713,-18.45172 -17.5306,5.44581 -27.207,15.34791 -27.207,15.34791 z"
        id="path3023"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssscssssssc" />
@@ -130,11 +130,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="M 814.53388,233.50956 C 741.50794,177.27589 589.23804,104.88373 602.21321,213.64742 c 11.68844,97.97822 -46.15293,42.69831 -46.15293,42.69831 l -25.36082,-60.53938 c 0,0 70.21239,-169.554022 283.83442,37.70321 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 814.53388,233.50956 c -36.85322,-26.5848 -77.24422,-49.02507 -120.53372,-64.53404 -21.82639,-7.54168 -45.2115,-13.84172 -68.60586,-10.81104 -12.63367,1.83553 -24.93266,9.21785 -29.59454,20.97892 -6.37801,14.28487 -3.71898,30.09867 -2.24634,45.03036 0.94263,13.51868 1.6708,28.00069 -4.93534,40.42147 -3.69124,6.05152 -11.81092,8.95626 -18.73169,6.53635 -9.8852,-2.49018 -18.46578,-8.49567 -25.76521,-15.07836 -8.79718,-20.08229 -17.59437,-40.16458 -26.39155,-60.24687 15.03045,-30.88018 44.48688,-56.2708 79.9062,-63.0796 31.4387,-6.232 63.98432,1.35103 92.691,13.85167 46.97224,20.74668 87.15636,52.89314 124.20705,86.93114 z"
        id="path4048"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csccc" />
+       inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
@@ -350,7 +349,7 @@
                                    id="flowSpan3892" /></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85116279;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.66233381,0,0,0.66233381,381.19429,3182.1491)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
@@ -399,6 +398,6 @@
                                    id="flowSpan3890-2"><flowSpan
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
-   style="font-size:40.7292366px"
+   style="font-size:40.72923660000000012px"
    id="flowSpan3980">Maart 2015 - </flowSpan>Tekeningen en verhaal: David Revoy - Vertaling: Willem Sonke  </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
 </svg>

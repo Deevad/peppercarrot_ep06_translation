@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P05.svg">
@@ -1282,15 +1282,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-width="1920"
+     inkscape:window-height="1041"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
      inkscape:cx="1127.3164"
      inkscape:cy="467.69155"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -1299,13 +1299,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep06_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
+       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2251,7 +2251,7 @@
          id="flowPara2995-4-1-5-0-7-2-5-3-0-4-5-6-39"
          style="font-size:48px;font-weight:normal;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Lavi">Clap</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none;display:inline"
-       d="m 745.82699,3274.2845 c -11.24196,-119.4216 33.72552,-115.1568 91.54094,-140.7471 57.81542,-25.5904 369.37577,-18.4819 438.43317,9.952 69.057,28.4338 93.1467,72.5059 78.693,142.1685 -14.4539,69.6626 -78.693,118.0002 -118.8427,129.3734 -40.1495,11.3737 -271.41099,44.0726 -380.61771,-1.4216 -109.2067,-45.4939 -109.2067,-139.3252 -109.2067,-139.3252 z"
+       d="m 760.7847,3278.1079 c -10.96751,-116.6166 32.90217,-112.452 89.30613,-137.4412 56.40397,-24.9893 360.35817,-18.0478 427.72967,9.7182 67.3711,27.766 90.8727,70.8029 76.7718,138.8293 -14.101,68.0263 -76.7718,115.2285 -115.9413,126.3346 -39.1694,11.1066 -264.78504,43.0374 -371.32568,-1.3882 C 760.7847,3369.7353 760.7847,3278.1079 760.7847,3278.1079 z"
        id="path3008-8"
        inkscape:connector-curvature="0" />
     <path

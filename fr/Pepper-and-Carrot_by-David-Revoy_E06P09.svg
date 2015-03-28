@@ -52,9 +52,9 @@
      inkscape:window-height="1041"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000002"
-     inkscape:cx="739.97382"
-     inkscape:cy="515.61443"
+     inkscape:zoom="0.52900002"
+     inkscape:cx="532.2695"
+     inkscape:cy="558.2272"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -119,7 +119,7 @@
        sodipodi:nodetypes="csssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1623.8201,435.39824 c 44.8711,-10.8171 54.1774,-0.16815 63.7635,12.84937 9.5861,13.01743 16.8223,25.92299 27.3594,27.20978 10.5371,1.2868 24.0955,-3.17063 33.7373,-7.81443 9.6419,-4.64389 16.3969,2.70419 24.6774,10.16404 8.2806,7.45986 61.0745,35.52734 61.0745,35.52734 0,0 -16.8411,-42.01779 -26.1287,-53.0584 -9.2876,-11.04059 -12.6259,-15.12489 -17.5681,-18.50045 -4.9422,-3.37558 -18.3701,-9.90297 -29.4667,-7.68351 -11.0966,2.21938 -20.4774,9.62342 -28.4968,13.16683 -8.0192,3.54351 -21.1553,-0.45764 -30.5735,-8.75676 -9.4182,-8.2991 -33.6405,-23.89753 -51.1713,-18.45172 -17.5306,5.44581 -27.207,15.34791 -27.207,15.34791 z"
+       d="m 1590.9443,545.46074 c 44.8711,-10.8171 54.1774,-0.16815 63.7635,12.84937 9.5861,13.01743 16.8223,25.92299 27.3594,27.20978 10.5371,1.2868 24.0955,-3.17063 33.7373,-7.81443 9.6419,-4.64389 16.3969,2.70419 24.6774,10.16404 8.2806,7.45986 61.0745,35.52734 61.0745,35.52734 0,0 -16.8411,-42.01779 -26.1287,-53.0584 -9.2876,-11.04059 -12.6259,-15.12489 -17.5681,-18.50045 -4.9422,-3.37558 -18.3701,-9.90297 -29.4667,-7.68351 -11.0966,2.21938 -20.4774,9.62342 -28.4968,13.16683 -8.0192,3.54351 -21.1553,-0.45764 -30.5735,-8.75676 -9.4182,-8.2991 -33.6405,-23.89753 -51.1713,-18.45172 -17.5306,5.44581 -27.207,15.34791 -27.207,15.34791 z"
        id="path3023"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssscssssssc" />
@@ -131,10 +131,9 @@
        sodipodi:nodetypes="zssssz" />
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 823.77301,239.48782 C 750.74707,183.25415 598.47717,110.86199 611.45234,219.62568 c 11.68844,97.97822 -46.15293,42.69831 -46.15293,42.69831 l -25.36082,-60.53938 c 0,0 70.21239,-169.554021 283.83442,37.70321 z"
+       d="M 823.77301,239.48782 C 786.39218,212.52525 745.597,189.94915 702.09347,174.54175 680.31274,167.11533 657.06794,160.9767 633.9114,164.27883 c -12.60057,1.9585 -24.88433,9.73565 -29.33716,22.10605 -5.66663,13.95803 -3.14564,29.26987 -1.70179,43.76813 0.94127,13.54596 1.67885,28.16959 -4.97836,40.48084 -3.82235,6.13879 -11.84256,8.8328 -18.65332,6.48505 -9.79618,-2.46073 -18.42944,-8.43515 -25.78821,-15.09601 -8.79281,-20.07942 -17.58561,-40.15885 -26.37842,-60.23828 16.22633,-33.44392 48.90367,-59.37112 86.17756,-64.14201 33.19352,-4.60909 66.5798,5.12129 96.26471,19.45732 42.44413,20.72483 79.69231,50.53162 114.2566,82.3879 z"
        id="path4048"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csccc" />
+       inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
@@ -299,7 +298,7 @@
          id="flowPara4358-7-1-9">50 000 Ko</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627907;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="matrix(0.66233381,0,0,0.66233381,381.19429,3179.6714)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
@@ -348,6 +347,6 @@
                                    id="flowSpan3890-2"><flowSpan
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
-   style="font-size:40.7292366px"
+   style="font-size:40.72923660000000012px"
    id="flowSpan3980">March 2015 - </flowSpan>Dessin et Scénario : David Revoy </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
 </svg>
