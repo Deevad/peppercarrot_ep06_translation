@@ -14,13 +14,15 @@ License
 
 ## Translators and correctors : 
 
+* Dutch      : Willem Sonke
+
 * English    : Alex Gryson
  
 * French     : David Revoy
 
-* Dutch      : Willem Sonke
-
 * Português  : Frederico Batista
+
+* Spanish    : TheFaico
 
 
 ## Fonts:
