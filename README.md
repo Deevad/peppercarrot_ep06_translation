@@ -18,7 +18,7 @@ License
 
 * English    : Alex Gryson
  
-* French     : David Revoy
+* French     : David Revoy, corrections: Aurélien Gâteau
 
 * Português  : Frederico Batista
 

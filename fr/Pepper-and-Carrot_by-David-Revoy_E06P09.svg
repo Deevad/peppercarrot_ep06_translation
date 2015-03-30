@@ -48,14 +48,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1680"
+     inkscape:window-height="1031"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900002"
-     inkscape:cx="532.2695"
-     inkscape:cy="558.2272"
-     inkscape:window-x="0"
+     inkscape:cx="1596.5417"
+     inkscape:cy="684.88126"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -65,13 +65,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
+       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2015-03-28_The-Potion-Contest/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -298,7 +298,7 @@
          id="flowPara4358-7-1-9">50 000 Ko</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627907;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="matrix(0.66233381,0,0,0.66233381,381.19429,3179.6714)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
@@ -347,6 +347,6 @@
                                    id="flowSpan3890-2"><flowSpan
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
-   style="font-size:40.72923660000000012px"
-   id="flowSpan3980">March 2015 - </flowSpan>Dessin et Scénario : David Revoy </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
+   style="font-size:40.7292366px"
+   id="flowSpan3980">March 2015 - </flowSpan>Dessin et Scénario : David Revoy ,  corrections : Aurélien Gâteau </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
 </svg>
