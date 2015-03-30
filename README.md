@@ -20,6 +20,8 @@ License
 
 * Dutch      : Willem Sonke
 
+* Português  : Frederico Batista
+
 
 ## Fonts:
 
