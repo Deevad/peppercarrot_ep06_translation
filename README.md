@@ -20,6 +20,8 @@ License
  
 * French     : David Revoy, corrections: Aurélien Gâteau
 
+* Japanese   : guruguru
+
 * Português  : Frederico Batista
 
 * Spanish    : TheFaico
@@ -29,6 +31,9 @@ License
 
 * Lavi by Ruben Holthuijsen aka Rholt
 [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
+
+* rounded-mplus-1c-medium.ttf from Rounded M+ by MM
+[MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 
 ## Artwork :
