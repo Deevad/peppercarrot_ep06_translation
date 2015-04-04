@@ -229,12 +229,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49782916"
-     inkscape:cx="374.04323"
+     inkscape:cx="622.69166"
      inkscape:cy="2192.2038"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -248,11 +248,11 @@
     <image
        sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep06_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -473,7 +473,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4638">... e para de se fingir de tímida, </flowPara><flowPara
+         id="flowPara4638">... e pare de se fingir de tímida, </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4636">você está estragando o show</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
