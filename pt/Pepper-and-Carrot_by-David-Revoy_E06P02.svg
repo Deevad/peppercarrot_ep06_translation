@@ -39,12 +39,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="1197.1919"
+     inkscape:cx="1922.8275"
      inkscape:cy="705.77032"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep06_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -169,7 +169,7 @@
            y="285.09567"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-6-6">Você inclusive trouxe uma uma potion, minhas roupas e meu chapéu... </flowPara><flowPara
+         id="flowPara3030-6-6">Você inclusive trouxe uma poção, minhas roupas e meu chapéu... </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3124" /></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
