@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 06 : The Potion Contest 
+# Episode 06 : The Potion Contest
 # WORK-IN-PROGRESS
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -12,13 +12,15 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors : 
+## Translators and correctors :
 
 * Dutch      : Willem Sonke
 
 * English    : Alex Gryson
- 
+
 * French     : David Revoy, corrections: Aurélien Gâteau
+
+* German     : Alexandra Jordan, Helmar Suschka
 
 * Japanese   : guruguru
 
@@ -38,6 +40,7 @@ License
 [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 * Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+
 
 ## Artwork :
 
