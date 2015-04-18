@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 06 : The Potion Contest 
+# Episode 06 : The Potion Contest
 # WORK-IN-PROGRESS
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -12,13 +12,15 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors : 
+## Translators and correctors :
 
 * Dutch      : Willem Sonke
 
 * English    : Alex Gryson
- 
+
 * French     : David Revoy, corrections: Aurélien Gâteau
+
+* German     : Alexandra Jordan, Helmar Suschka
 
 * Japanese   : guruguru
 
