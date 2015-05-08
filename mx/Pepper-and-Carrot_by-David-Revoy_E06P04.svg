@@ -477,8 +477,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49190039"
-     inkscape:cx="1237.0901"
-     inkscape:cy="1385.1902"
+     inkscape:cx="558.09084"
+     inkscape:cy="2981.0418"
      inkscape:window-x="1918"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -603,8 +603,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 88.356381,160.90102 C 103.36814,51.176168 168.21289,50.885278 391.98583,55.330578 615.75888,59.77588 759.50273,68.291538 778.3001,76.256714 812.07744,90.569492 791.61808,190.42135 768.66709,273.77215 745.71583,357.12295 644.06292,412.04334 424.59321,405.37534 205.12346,398.70714 155.42911,399.95489 121.4535,382.99119 56.903447,350.76219 73.344615,270.62588 88.356381,160.90102 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="M 78.383722,152.40892 C 93.606993,38.881148 159.36539,38.580176 386.29124,43.179544 613.2172,47.778914 758.98637,56.589713 778.04859,64.830952 812.30185,79.639791 791.55422,182.95238 768.27986,269.19201 745.00522,355.43163 641.92004,412.25549 419.35805,405.35639 196.79602,398.45708 146.40149,399.74807 111.94717,382.19643 46.487623,348.85042 63.160443,265.93669 78.383722,152.40892 Z"
        id="path4530"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -806,13 +806,13 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4220"> veamos la demostración</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3227"> de Coriander </flowPara></flowRoot>    <flowRoot
+         id="flowPara3227"> de Coriander. </flowPara></flowRoot>    <flowRoot
        transform="translate(367.69085,2194.3888)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4212-3"
        xml:space="preserve"><flowRegion
          id="flowRegion4214-6"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
            y="265.53046"
            x="120.55251"
            height="310.73996"
@@ -821,7 +821,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4220-7"> Damas y </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4292">caballeros...</flowPara></flowRoot>    <path
+         id="flowPara4292">Caballeros...</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 780.28717,2580.2849 c -2.4049,47.1601 -60.1208,116.0864 -121.44397,107.924 73.34739,-26.3008 92.58602,-87.0647 87.77636,-101.5755 -4.80966,-14.5108 33.66761,-6.3485 33.66761,-6.3485 z"
        id="path3978"
