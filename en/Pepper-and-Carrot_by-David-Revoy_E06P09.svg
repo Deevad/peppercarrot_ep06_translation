@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P09.svg">
@@ -48,14 +48,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1408"
+     inkscape:window-height="855"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60835003"
-     inkscape:cx="1080.6188"
-     inkscape:cy="645.23785"
-     inkscape:window-x="0"
+     inkscape:cx="1869.6382"
+     inkscape:cy="184.97651"
+     inkscape:window-x="32"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -65,13 +65,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
+       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep06_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -282,7 +282,7 @@
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="flowPara4358-7-1">FIN</flowPara></flowRoot>    <flowRoot
+         id="flowPara4358-7-1">END</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.66946674,-0.0365707,0.20636409,1.4040624,586.0213,2760.2475)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.3534884;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3843);font-family:Lavi;-inkscape-font-specification:Lavi"
        id="flowRoot4212-3-7-8-6-1"
