@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors :
 
+* Arabic     : Mahwiii
+
 * Dutch      : Willem Sonke
 
 * English    : Alex Gryson
@@ -34,13 +36,17 @@ License
 
 ## Fonts:
 
-* Lavi by Ruben Holthuijsen aka Rholt
-[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
+* Latin: Lavi by Ruben Holthuijsen aka Rholt [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
-* rounded-mplus-1c-medium.ttf from Rounded M+ by MM
-[MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+* Russian: Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
-* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html) [link] (http://jikasei.me/font/rounded-mplus/about.html)
+
+* Arabic: Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php),  [link](http://openfontlibrary.org/en/font/midan-normal)
+
+* Arabic: Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
+
+* Arabic: Alhor by Nadim Shaikli[GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
 
 
 ## Artwork :
