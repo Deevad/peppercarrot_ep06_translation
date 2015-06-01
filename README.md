@@ -15,6 +15,8 @@ License
 
 * Arabic     : Mahwiii
 
+* Català     : Juan José Segura
+
 * Dutch      : Willem Sonke
 
 * English    : Alex Gryson
