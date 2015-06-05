@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P05.svg">
@@ -1282,16 +1282,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="973"
+     inkscape:window-width="1572"
+     inkscape:window-height="996"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.56568545"
-     inkscape:cx="1274.4322"
-     inkscape:cy="1601.9168"
-     inkscape:window-x="1918"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.32343249"
+     inkscape:cx="1364.0826"
+     inkscape:cy="762.89875"
+     inkscape:window-x="201"
+     inkscape:window-y="35"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
@@ -1299,13 +1299,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep06_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-03-28_ep06_The-Potion-Contest/lang/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2289,19 +2289,19 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-07-3-1-8-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(660.01869,2888.4817)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="translate(629.10034,2885.3899)"><flowRegion
          id="flowRegion2989-5-4-5-12-9-6-3-5"><rect
            id="rect2991-7-9-6-2-7-6-4-8"
-           width="537.66357"
-           height="274.31879"
+           width="590.22473"
+           height="289.77795"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4469-7-2">Todos éstos aplausos </flowPara><flowPara
+         id="flowPara4861">Todos estos aplausos</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4861">no dejan duda; Coriander a quedado eliminada.</flowPara></flowRoot>  </g>
+         id="flowPara3483"> no dejan duda; Coriander ha queado eliminada</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
