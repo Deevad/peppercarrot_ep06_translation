@@ -52,9 +52,9 @@
      inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.43016843"
-     inkscape:cx="1322.4371"
-     inkscape:cy="-95.509129"
+     inkscape:zoom="0.86033686"
+     inkscape:cx="2264.5532"
+     inkscape:cy="311.55124"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -67,11 +67,11 @@
     <image
        sodipodi:absref="C:\Users\Home\Desktop\Trans\peppercarrot_ep06_translation-master\vi\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -82,8 +82,8 @@
      id="layer1"
      inkscape:label="txt">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 2046.6862,3304.5369 c 7.7136,-45.4874 35.0621,-72.6332 168.2984,-82.9045 133.2363,-10.2714 150.7673,42.5527 154.9748,68.9648 4.2076,26.412 0.7013,65.2964 -36.4646,85.1055 -37.1658,19.809 -118.5102,24.2111 -147.9624,19.0753 -29.4522,-5.1356 -89.225,-1.0097 -106.0547,-17.8841 -16.83,-16.8744 -30.6878,-32.739 -32.7915,-72.357 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2046.6862,3308.9754 c 7.7136,-47.8849 35.0621,-76.4614 168.2984,-87.2741 133.2363,-10.8128 150.7673,44.7955 154.9748,72.5997 4.2076,27.8041 0.7013,68.7379 -36.4646,89.5911 -37.1658,20.853 -118.5102,25.4871 -147.9624,20.0807 -29.4522,-5.4063 -89.225,-1.063 -106.0547,-18.8267 -16.83,-17.7638 -30.6878,-34.4646 -32.7915,-76.1707 z"
        id="path3573-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -254,7 +254,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-4"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.77121069,0,0,0.77121069,1821.7726,3068.6808)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-7"><rect
            id="rect2991-7-9-6-21-9-8-0-4"
@@ -262,11 +262,13 @@
            height="513.23993"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3078">... no demo </flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4723">then ?...</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4723">... vậy thì khỏi</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4254">cần biểu diễn</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="flowPara4256">nhỉ?...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
