@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P06.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -229,15 +229,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1918"
+     inkscape:window-height="1023"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32918953"
      inkscape:cx="806.48597"
      inkscape:cy="1569.0041"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="2"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -248,11 +248,11 @@
     <image
        sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -575,7 +575,7 @@
            width="1048.8354"
            id="rect4216-4-0-26-5-5" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="flowPara4358-7-1-39">MONSTRE GEANT !</flowPara></flowRoot>    <path
+         id="flowPara4358-7-1-39">MONSTRE GÉANT !</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1055.421,218.45176 c -34.3695,-15.0506 -68.37405,-58.96265 -73.54186,-68.52491 17.76992,10.9475 72.42026,41.29895 96.28386,46.5603 20.2546,4.46569 -22.742,21.96461 -22.742,21.96461 z"
        id="path3940-5"
@@ -640,10 +640,5 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4201-8">C'est une potion de </flowPara></flowRoot>    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2190.7473,2534.2504 c -1.9711,-6.1663 13.5791,-15.5805 16.1905,-12.808 2.6115,2.7726 -11.0214,20.1478 -16.1905,12.808 z"
-       id="path3127"
-       inkscape:connector-curvature="0" />
-  </g>
+         id="flowPara4201-8">C'est une potion de </flowPara></flowRoot>  </g>
 </svg>
