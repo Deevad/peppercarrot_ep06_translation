@@ -21,6 +21,8 @@ License
 
 * English    : Alex Gryson
 
+* Esperanto  : libre fan
+
 * French     : David Revoy, corrections: Aurélien Gâteau
 
 * German     : Alexandra Jordan, Helmar Suschka
