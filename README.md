@@ -41,6 +41,8 @@ License
 
 * Vietnamese : Binh Pham
 
+* Chinese    : Ran Zhuang
+
 
 ## Artwork :
 
