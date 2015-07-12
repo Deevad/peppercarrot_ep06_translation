@@ -23,6 +23,8 @@ License
 
 * Esperanto  : libre fan
 
+* Finnish	   : Kari Lehto
+
 * French     : David Revoy, corrections: Aurélien Gâteau
 
 * German     : Alexandra Jordan, Helmar Suschka
