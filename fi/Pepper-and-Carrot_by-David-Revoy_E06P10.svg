@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="2479"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P10.svg">
@@ -43,9 +43,9 @@
      inkscape:window-height="1003"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.42532421"
-     inkscape:cx="1318.3985"
-     inkscape:cy="728.04415"
+     inkscape:zoom="0.27965757"
+     inkscape:cx="1388.3713"
+     inkscape:cy="2038.6827"
      inkscape:window-x="548"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -58,13 +58,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Kari\Documents\Pepper and Carrot\Episode 6\fi\..\peppercarrot_ep06_translation-master\en\.\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P10.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-03-28_ep06_The-Potion-Contest/lang/fi/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P10.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P10.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="2479"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -92,7 +92,7 @@
        xml:space="preserve"
        id="flowRoot3027"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.2334095,0,0,1.2851851,-449.45899,-279.29433)"><flowRegion
+       transform="matrix(1.2334095,0,0,1.2851851,-449.45899,-215.29433)"><flowRegion
          id="flowRegion3029"><rect
            id="rect3031"
            width="1840.5787"
@@ -181,7 +181,7 @@
        xml:space="preserve"
        id="flowRoot2987"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.79948741,0,0,0.82559177,160.04539,-123.23509)"><flowRegion
+       transform="matrix(0.79948741,0,0,0.82559177,160.04539,-87.23509)"><flowRegion
          id="flowRegion2989"><rect
            id="rect2991"
            width="2996.0627"
