@@ -37,6 +37,8 @@ License
 
 * Russian    : Denis "uncle Night" Prisukhin
 
+* Slovak     : talime
+
 * Spanish    : TheFaico
 
 * Vietnamese : Binh Pham
