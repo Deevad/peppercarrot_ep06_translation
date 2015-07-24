@@ -29,6 +29,8 @@ License
 
 * German     : Alexandra Jordan, Helmar Suschka
 
+* Indonesian : Bonaventura Aditya Perdana
+
 * Italian    : Carlo Gandolfi
 
 * Japanese   : guruguru
