@@ -472,15 +472,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="843"
+     inkscape:window-width="1280"
+     inkscape:window-height="967"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.44155578"
-     inkscape:cx="1137.4083"
-     inkscape:cy="2850.2926"
-     inkscape:window-x="0"
-     inkscape:window-y="156"
+     inkscape:cx="821.47993"
+     inkscape:cy="1310.2833"
+     inkscape:window-x="1600"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -499,11 +499,11 @@
     <image
        sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep06_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -800,7 +800,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara4545">Первой будет</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
-         id="flowPara3597">демонтрация </flowPara><flowPara
+         id="flowPara3597">демонстрация </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3601">Кориандры!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
