@@ -54,7 +54,7 @@
      showgrid="false"
      inkscape:zoom="0.52900002"
      inkscape:cx="1596.5417"
-     inkscape:cy="-423.70233"
+     inkscape:cy="-45.630511"
      inkscape:window-x="2"
      inkscape:window-y="35"
      inkscape:window-maximized="1"
@@ -67,11 +67,11 @@
     <image
        sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2015-03-28_The-Potion-Contest/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -83,7 +83,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 2046.6862,3304.5369 c 7.7136,-45.4874 35.0621,-72.6332 168.2984,-82.9045 133.2363,-10.2714 150.7673,42.5527 154.9748,68.9648 4.2076,26.412 0.7013,65.2964 -36.4646,85.1055 -37.1658,19.809 -118.5102,24.2111 -147.9624,19.0753 -29.4522,-5.1356 -89.225,-1.0097 -106.0547,-17.8841 -16.83,-16.8744 -30.6878,-32.739 -32.7915,-72.357 z"
+       d="m 2029.4537,3304.5369 c 8.2076,-45.4874 37.3077,-72.6332 179.0775,-82.9045 141.7697,-10.2714 160.4235,42.5527 164.9005,68.9648 4.4771,26.412 0.7463,65.2964 -38.8,85.1055 -39.5462,19.809 -126.1005,24.2111 -157.4391,19.0753 -31.3385,-5.1356 -94.9396,-1.0097 -112.8472,-17.8841 -17.908,-16.8744 -32.6533,-32.739 -34.8917,-72.357 z"
        id="path3573-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -149,7 +149,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3030-8">Jes, atente legu </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3039">la etikedon... </flowPara></flowRoot>    <path
+         id="flowPara3039">la etikedon ... </flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1722.5997,565.17087 c 5.6086,-113.47198 70.3257,-175.99246 348.843,-162.49266 110.1522,5.3391 321.0523,-31.56014 352.0639,143.97171 28.6991,162.44283 -249.6683,171.78902 -299.7405,177.70601 -50.0723,5.91721 -311.2749,-1.67584 -359.1434,-55.33411 -22.0771,-24.74725 -41.882,-68.78446 -42.023,-103.85095 z"
        id="path4546"
@@ -168,7 +168,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3039-2">…Mi senhezite verŝos tiom da fluajô sur vin, se vi ne tuj forflugos de Komono. </flowPara><flowPara
+         id="flowPara3039-2">... Mi senhezite verŝos tiom da fluaĵo sur vin, se vi ne tuj forflugos de Komono. </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3080" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -198,7 +198,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3030-8-8-0">ni donis la </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3131">premion al Pipro pro ŝia Trinkaĵo por…??!!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3131">premion al Pipro pro ŝia Trinkaĵo por ...?!!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -211,7 +211,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3131-1">… be … fakte, trinkaĵo</flowPara><flowPara
+         id="flowPara3131-1">... be ... fakte, trinkaĵo</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3186">  ne vere estas tiu;</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
@@ -245,7 +245,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-4"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.77121069,0,0,0.77121069,1821.7726,3068.6808)"><flowRegion
+       transform="matrix(0.77121069,0,0,0.77121069,1815.7726,3068.6808)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-7"><rect
            id="rect2991-7-9-6-21-9-8-0-4"
            width="774.90173"
@@ -260,7 +260,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1130.8395,3152.5698)"><flowRegion
+       transform="translate(1016.8395,3152.5698)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
            id="rect2991-7-9-6-21-9-8-0-3"
            width="1041.0548"
@@ -269,7 +269,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3272-6">Rakontaĵo 6a: La sorĉotrinkaĵa konkurso</flowPara></flowRoot>    <flowRoot
+         id="flowPara3272-6">Rakontaĵo 6a: La sorĉotrinkaĵa Konkurso</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.90617713,0,-0.22078013,1.6225798,1900.3642,2973.4835)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        id="flowRoot4212-3-7-8-6"
@@ -282,7 +282,7 @@
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="flowPara4358-7-1">FINO</flowPara></flowRoot>    <flowRoot
+         id="flowPara4358-7-1">~ LA FINO ~</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.66946674,-0.0365707,0.20636409,1.4040624,586.0213,2760.2475)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.3534884;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3843);font-family:Lavi;-inkscape-font-specification:Lavi"
        id="flowRoot4212-3-7-8-6-1"
@@ -295,7 +295,7 @@
            width="798.1947"
            id="rect4216-4-0-26-5-9" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="flowPara4358-7-1-9">50 000 Ko</flowPara></flowRoot>    <flowRoot
+         id="flowPara4358-7-1-9">50 000 Koj</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -348,5 +348,5 @@
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
    style="font-size:40.7292366px"
-   id="flowSpan3980">Marton 2015 - </flowSpan>Desegno kaj Scenaro: David Revoy. Traduko: libre fan</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
+   id="flowSpan3980">Marto 2015 - </flowSpan>Desegno kaj Scenaro: David Revoy. Traduko: libre fan</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
 </svg>
