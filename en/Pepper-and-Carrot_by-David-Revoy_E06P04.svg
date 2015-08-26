@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P04.svg">
@@ -476,9 +476,9 @@
      inkscape:window-height="1041"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.80454291"
-     inkscape:cx="1256.8309"
-     inkscape:cy="3099.8758"
+     inkscape:zoom="0.40000002"
+     inkscape:cx="1127.5555"
+     inkscape:cy="1761.262"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -497,13 +497,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2015-03-28_ep06_The-Potion-Contest/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -781,15 +781,15 @@
          id="flowPara4539">games begin!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(424.30074,1532.3263)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(496.80074,1529.8263)"><flowRegion
          id="flowRegion2989-5-4-4"><rect
            id="rect2991-7-9-57"
-           width="619.65173"
-           height="310.73993"
+           width="487.1517"
+           height="293.23993"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4239"> The vote will be by applaud-o-meter</flowPara></flowRoot>    <flowRoot
        transform="translate(196.02576,1861.8014)"
