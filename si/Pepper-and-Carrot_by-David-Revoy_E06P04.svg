@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P04.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-4"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-7"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-1"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-6"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-9"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-2"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-4"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-40"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-5"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-7"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-5"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-40-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-5-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-7-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-7-9"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-5-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-1-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-7-8"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-2-5"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-5-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-4-9"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-2-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-7-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-2-4"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-5-4"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-4-5"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-2-1"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-7-3-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-2-4-4"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-5-4-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-4-5-4"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-2-1-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-7-3-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-2-4-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-5-4-75"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-4-5-8"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-2-1-5"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-1-1-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-5"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-7"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-1-1-8"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-4"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-33"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-1-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-4"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-1-7-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-6-8"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-6-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-4-0"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-4-7"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-5"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-0"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-1"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-9"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-53"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-3"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-0"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-4"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-2"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-5"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-6"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-2"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-28"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-7"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-7"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-6-4"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-2-9"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-28-1"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-7-0"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-7-6"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-6-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-2-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-28-5"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-7-1"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-7-1"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-6-77"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-2-5"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-28-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-7-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-7-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-6-75"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-2-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-28-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-7-3"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-7-63"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-6-5"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-2-53"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-28-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-7-25"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-7-4"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-6-43"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-2-12"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-28-30"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-7-7"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-7-11"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.28284273"
+     inkscape:cx="872.22473"
+     inkscape:cy="1018.0141"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="1219.9999,3062.4998"
+       id="guide3937" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="D:\T\tut\P&amp;C\peppercarrot_ep06_translation-master\peppercarrot_ep06_translation-master\si\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <path
+       inkscape:connector-curvature="0"
+       id="path5208-3-6"
+       d="m 1496.2938,2196.4246 c 22.7984,-6.2071 53.9035,-14.714 84.2447,-14.0584 30.3413,0.6559 56.9309,9.067 78.4147,35.3288 24.8122,36.6399 50.2795,13.081 19.3552,-14.4214 -31.5522,-38.569 -72.4984,-50.884 -107.764,-51.6462 -35.2657,-0.7622 -67.8477,8.6184 -90.5081,14.7877 -55.1405,6.4013 -216.3127,102.3392 16.2575,30.0095 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:31.89999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       sodipodi:nodetypes="csccscc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5208-3"
+       d="m 945.68212,2343.1577 c 18.48539,-23.8118 53.55747,-56.3505 80.77608,-76.2754 27.2189,-19.925 58.3035,-23.7585 85.149,-3.827 32.8568,31.3448 40.4068,-10.6167 4.7881,-25.7165 -39.4266,-29.2719 -79.5138,-17.4646 -111.1501,5.694 -31.63624,23.1588 -57.90475,57.8622 -76.27818,81.53 -47.23693,46.2294 -169.21228,273.3942 16.7151,18.5949 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:31.89999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       sodipodi:nodetypes="csccscc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 814.7648,2622.0058 c -69.0614,-6.5994 -170.35132,-28.0475 -189.91882,-68.4688 -19.56736,-40.4213 -14.96327,-90.7418 25.32258,-113.0148 40.28572,-22.273 109.34712,-41.2463 169.20034,-33.822 59.85321,7.4244 138.12281,34.6469 156.53918,72.5935 18.41637,37.9466 1.15099,118.7894 -75.96748,134.4628 -77.1186,15.6736 -85.1758,8.2493 -85.1758,8.2493 z"
+       id="path3970"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 901.03102,2091.2128 c -1.84703,26.9409 -9.88688,52.8977 -22.41937,71.7737 -10.59406,16.0795 -25.39767,25.3267 -40.24526,24.3082 -19.58439,-1.0733 -37.5715,-15.9638 -53.11499,-33.4618 -11.59129,-12.2928 -23.47548,-24.6703 -36.86391,-31.7267 -5.18531,-2.4084 -11.53021,-4.7873 -16.28954,0.6338 -2.84549,3.6271 -3.84412,10.1591 -3.13814,15.5104 9.43448,15.8621 18.86899,31.7242 28.30351,47.5864 21.89013,12.4319 44.7188,21.3748 67.96167,24.6781 17.41851,2.1213 35.85099,1.2426 51.75225,-11.2318 11.57383,-8.8982 20.17349,-25.9155 23.40192,-45.2702 3.61716,-20.4382 2.83845,-42.0962 0.65186,-62.8001 z"
+       id="path4048"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 422.14519,2128.1831 c 55.87111,-64.0285 346.61159,-69.7955 383.69099,-21.7142 37.07941,48.0814 67.71016,165.9579 16.12151,204.7332 -51.58876,38.7751 -369.18172,54.2852 -403.03681,-3.1021 -33.85509,-57.3874 -52.64688,-115.8885 3.22431,-179.9169 z"
+       id="path4008-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssz" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5208"
+       d="m 698.83755,1782.6244 c -29.35548,-11.9054 -69.44188,-28.1159 -100.30159,-51.5254 -30.85959,-23.4098 -50.68956,-50.5737 -48.79257,-89.0376 7.99925,-49.7764 -40.09716,-48.9694 -33.34663,-2.3422 -2.78576,56.4898 28.33791,97.7794 64.20609,124.9883 35.86804,27.2089 78.29042,43.7908 107.46823,55.6241 63.07215,36.101 318.52062,76.0964 10.76647,-37.7072 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:31.89999962;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       sodipodi:nodetypes="csccscc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1380.0517,1873.7848 c -51.4287,53.2544 -122.847,86.2056 -196.5922,91.7894 -66.3698,5.5593 -134.5787,-7.1349 -193.71546,-38.0251 -20.55354,-11.2495 -40.41416,-24.3883 -56.97689,-41.0648 -7.72516,-5.7683 -11.15252,-20.1711 1.14374,-22.7742 7.61944,-2.4443 15.70855,-1.6736 23.11764,0.9973 8.89759,2.5266 17.79518,5.0533 26.69277,7.5799 47.7086,34.5502 102.6963,59.4803 160.5544,70.9329 54.6408,10.4359 113.0432,5.712 163.41,-18.8692 26.6854,-12.7368 50.9952,-30.187 72.366,-50.5662 z"
+       id="path3541"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15.39999962;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.4, 15.4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 613.08528,1853.7295 c -6.73636,-79.7866 35.0169,-75.6708 70.4487,-91.8305 38.53446,-17.5745 363.87722,-21.5207 399.62222,22.2539 35.5778,43.5696 62.1318,120.377 -46.5035,155.3139 -108.63527,34.9368 -296.62777,23.1421 -326.9023,15.406 -28.61137,-7.3111 -86.40229,-38.3606 -96.66512,-101.1433 z"
+       id="path3659-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 177.21437,1685.0399 c -6.13236,-90.2333 31.87721,-85.5787 64.13212,-103.854 35.07938,-19.8756 331.25123,-24.3384 363.79132,25.1675 32.38781,49.2743 56.56091,136.1383 -42.33387,175.6495 -98.89489,39.5111 -270.03159,26.1721 -297.59165,17.4231 -26.04601,-8.2684 -78.65528,-43.3833 -87.99792,-114.3861 z"
+       id="path3659"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1748.2356,156.06366 c 14.4686,-109.724836 76.967,-110.015726 292.643,-105.570426 215.6762,4.445302 354.2189,12.960958 372.3361,20.926134 32.5551,14.312783 12.8361,114.164622 -9.2845,197.515422 -22.1209,83.3508 -120.0956,138.27119 -331.624,131.60319 -211.5286,-6.6682 -170.045,11.30895 -247.1042,-39.39738 -114.8914,-75.60049 -91.435,-95.35208 -76.9664,-205.07694 z"
+       id="path4530-7-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1255.9322,176.85762 c 10.9242,-109.724846 58.112,-110.015736 220.9526,-105.570436 162.8408,4.445302 267.4439,12.960958 281.1228,20.926134 24.5799,14.312782 9.6916,114.164632 -7.01,197.515432 -16.7018,83.3508 -90.6751,138.27119 -250.3842,131.60319 -159.7092,-6.6682 -128.3881,11.30895 -186.5697,-39.39738 -86.7458,-75.60049 -69.0356,-95.35208 -58.1115,-205.07694 z"
+       id="path4530-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 765.15106,465.60351 c 34.9824,-14.7905 70.6577,-29.41822 8.3954,-67.06471 59.1008,9.67373 22.9303,-11.15288 8.4302,-25.04189 105.5637,27.41781 37.4091,-16.92424 11.4877,-43.82059 23.5249,10.70828 61.0265,40.90205 46.8629,-0.93284 7.4782,1.91823 16.2801,7.42204 19.9739,-0.91057 9.5311,5.74406 16.6097,7.21525 20.7459,3.55931 9.3713,10.45977 15.4234,13.21086 15.3665,1.77548 8.8588,8.61604 11.5825,5.64584 13.8301,1.77684 15.207,18.50139 20.8763,13.2739 26.8964,8.91882 8.6104,11.1089 18.6741,8.58289 29.9574,-5.3893 11.5723,18.89586 23.9898,17.73541 36.88074,5.33415 3.7932,4.65418 7.2409,12.54772 12.2966,5.35452 5.1238,2.48252 10.2507,8.85062 15.3674,2.66965 54.0771,24.42838 77.6386,3.73655 102.9344,-14.3906 14.1194,7.98213 24.302,23.42438 48.4105,12.47747 2.2637,11.15604 15.1988,15.67591 37.6562,14.27461 -23.0241,13.48482 -24.2028,21.15186 29.2056,14.28158 -37.2207,11.05799 -71.5207,22.11357 -13.8013,33.09323 -13.5128,4.38908 -57.7007,-5.87309 -9.1807,46.50102 -34.4328,-11.53981 -65.685,-14.51962 -75.2625,32.24989 -18.5809,-12.28225 -39.1478,-18.35722 -55.3064,9.8808 -14.7496,-13.2125 -35.369,-10.02051 -46.0982,-3.53837 -2.9164,-14.48133 -24.8673,-36.6761 -54.5432,3.62142 6.4995,-22.89575 1.5356,-59.35117 -33.03434,0.92134 -0.6951,-10.47917 13.5139,-67.48221 -82.9709,0.96264 12.005,-45.87742 -20.027,-19.16199 -45.33,-3.53902 12.5302,-28.76809 -6.3647,-30.97641 -47.6436,-14.26636 31.8318,-27.33214 -0.9157,-19.76613 -21.5267,-18.75852 z"
+       id="path3549-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="M 768.43384,154.78295 C 779.59399,45.058101 827.80129,44.767211 994.16007,49.212511 1160.519,53.657813 1267.382,62.17347 1281.3565,70.138646 c 25.1109,14.312778 9.9009,114.164634 -7.1615,197.515434 -17.0626,83.3508 -92.6341,138.27119 -255.7937,131.60319 -163.1597,-6.6682 -200.1038,-5.42045 -225.36218,-22.38415 -47.98823,-32.229 -35.76543,-112.36531 -24.60528,-222.09017 z"
+       id="path4530-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 80.159304,158.91071 C 95.58883,48.294567 162.23812,48.001314 392.23841,52.482724 622.2388,56.964135 769.98287,65.548965 789.30335,73.578843 824.02067,88.007883 802.99195,188.67084 779.40227,272.6987 755.8123,356.72655 651.33051,412.09306 425.75321,405.3709 200.17587,398.64853 149.09859,399.90642 114.17747,382.80492 47.831072,350.31413 64.729777,269.52687 80.159304,158.91071 z"
+       id="path4530"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 154.15106,359.8968 c 34.9824,14.7905 70.6577,29.41822 8.3954,67.06471 59.1008,-9.67373 22.9303,11.15288 8.4302,25.04189 105.56368,-27.41781 37.4091,16.92424 11.4877,43.82059 23.5249,-10.70828 61.02648,-40.90205 46.86288,0.93284 7.4782,-1.91823 16.2801,-7.42204 19.9739,0.91057 9.5311,-5.74406 16.6097,-7.21525 20.7459,-3.55931 9.3713,-10.45977 15.4234,-13.21086 15.3665,-1.77548 8.8588,-8.61604 11.5825,-5.64584 13.8301,-1.77684 15.207,-18.50139 20.8763,-13.2739 26.8964,-8.91882 8.6104,-11.1089 18.6741,-8.58289 29.9574,5.3893 11.5723,-18.89586 23.9898,-17.73541 36.8808,-5.33415 2.33936,-14.83109 9.49265,-29.67994 17.93566,1.22438 5.1238,-2.48252 8.37101,-22.00842 25.70566,10.48814 1.44592,-35.70649 61.66128,-23.47324 86.95708,-5.34609 -7.49698,-27.71882 5.50515,-40.34155 48.4105,-12.47747 2.2637,-11.15604 15.1988,-15.67591 37.6562,-14.27461 -23.0241,-13.48482 -24.2028,-21.15186 29.2056,-14.28158 -37.2207,-11.05799 -71.5207,-22.11357 -13.8013,-33.09323 -13.5128,-4.38908 -57.7007,5.87309 -9.1807,-46.50102 -34.4328,11.53981 -65.685,14.51962 -75.2625,-32.24989 -18.5809,12.28225 -39.1478,18.35722 -55.3064,-9.8808 -14.7496,13.2125 -35.369,10.02051 -46.0982,3.53837 -2.9164,14.48133 -24.8673,36.6761 -54.5432,-3.62142 6.4995,22.89575 1.5356,59.35117 -33.0344,-0.92134 -0.6951,10.47917 13.5139,67.48221 -82.9709,-0.96264 12.005,45.87742 -20.027,19.16199 -45.32998,3.53902 12.53018,28.76809 -6.3647,30.97641 -47.6436,14.26636 31.8318,27.33214 -0.9157,19.76613 -21.5267,18.75852 z"
+       id="path3549-3-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1246.3651,358.73331 c 34.9946,14.76163 70.682,29.35991 8.4508,67.05776 59.0928,-9.72249 22.9395,11.13396 8.4508,25.03493 105.5411,-27.50491 37.4231,16.89336 11.5239,43.81109 23.516,-10.72768 60.9927,-40.95239 46.8636,0.89418 7.4767,-1.9244 16.274,-7.43548 19.9747,0.89408 9.5263,-5.75192 16.6037,-7.22895 20.7429,-3.57642 9.3627,-10.4675 15.4125,-13.22358 15.3651,-1.78816 8.8517,-8.62335 11.5778,-5.6554 13.8286,-1.78825 15.1917,-18.51393 20.8653,-13.29112 26.889,-8.94101 8.6013,-11.116 18.667,-8.5983 29.9619,5.36458 11.5567,-18.90541 23.9751,-17.7552 36.8763,-5.36458 3.7893,-4.65731 7.2305,-12.55369 12.2921,-5.36467 5.1218,-2.48674 10.2434,-8.85907 15.3652,-2.68233 54.0569,-24.47299 77.6355,-3.80061 102.9463,14.30566 14.1128,-7.99377 24.2826,-23.44442 48.4001,-12.51741 2.2545,-11.1579 15.1859,-15.68844 37.6445,-14.30567 -23.0353,-13.46582 -24.2203,-21.13189 29.1938,-14.30568 -37.2299,-11.02727 -71.539,-22.05455 -13.8286,-33.08183 -13.5165,-4.37793 -57.6959,5.9207 -9.2191,-46.49343 -34.4233,11.56822 -65.673,14.57382 -75.2891,-32.18777 -18.5708,12.29757 -39.1326,18.38951 -55.3145,-9.83517 -14.7387,13.22467 -35.3607,10.04969 -46.0953,3.57641 -2.9044,14.48373 -24.837,36.69661 -54.5462,-3.57641 6.5184,22.89038 1.5846,59.34988 -33.035,-0.89409 -0.6865,10.47974 13.5696,67.47104 -82.9717,-0.89417 12.0429,45.8675 -20.0112,19.1785 -45.327,3.57642 12.5539,28.75774 -6.3392,30.98165 -47.6319,14.30567 31.8544,27.30586 -0.8993,19.76687 -21.5112,18.77627 z"
+       id="path3549"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2317.3429,461.71697 c -34.9824,-14.7905 -70.6577,-29.41822 -8.3954,-67.06471 -59.1008,9.67373 -22.9303,-11.15288 -8.4302,-25.04189 -105.5637,27.41781 -37.4091,-16.92424 -11.4877,-43.82059 -23.5249,10.70828 -61.0265,40.90205 -46.8629,-0.93284 -7.4782,1.91823 -16.2801,7.42204 -19.9739,-0.91057 -9.5311,5.74406 -16.6097,7.21525 -20.7459,3.55931 -9.3713,10.45977 -15.4234,13.21086 -15.3665,1.77548 -8.8588,8.61604 -11.5825,5.64584 -13.8301,1.77684 -15.207,18.50139 -20.8763,13.2739 -26.8964,8.91882 -8.6104,11.1089 -18.6741,8.58289 -29.9574,-5.3893 -11.5723,18.89586 -23.9898,17.73541 -36.8807,5.33415 -3.7932,4.65418 -7.2409,12.54772 -12.2966,5.35452 -5.1238,2.48252 -10.2507,8.85062 -15.3674,2.66965 -54.0771,24.42838 -77.6386,3.73655 -102.9344,-14.3906 -14.1194,7.98213 -24.302,23.42438 -48.4105,12.47747 -2.2637,11.15604 -15.1988,15.67591 -37.6562,14.27461 23.0241,13.48482 24.2028,21.15186 -29.2056,14.28158 37.2207,11.05799 71.5207,22.11357 13.8013,33.09323 13.5128,4.38908 57.7007,-5.87309 9.1807,46.50102 34.4328,-11.53981 65.685,-14.51962 75.2625,32.24989 18.5809,-12.28225 39.1478,-18.35722 55.3064,9.8808 14.7496,-13.2125 35.369,-10.02051 46.0982,-3.53837 2.9164,-14.48133 24.8673,-36.6761 54.5432,3.62142 -6.4995,-22.89575 -1.5356,-59.35117 33.0343,0.92134 0.6951,-10.47917 -13.5139,-67.48221 82.9709,0.96264 -12.005,-45.87742 20.027,-19.16199 45.33,-3.53902 -12.5302,-28.76809 6.3647,-30.97641 47.6436,-14.26636 -31.8318,-27.33214 0.9157,-19.76613 21.5267,-18.75852 z"
+       id="path3549-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="matrix(0.95842652,0,0,0.92639044,61.631114,-94.148029)"><flowRegion
+         id="flowRegion2989"><rect
+           id="rect2991"
+           width="802.00476"
+           height="222.0042"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         id="flowPara2995"
+         style="font-size:48px;text-align:center;text-anchor:middle" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.94999038,0,0,1.1167792,-5.4487399,-139.23362)"><flowRegion
+         id="flowRegion2989-5-4-3"><rect
+           id="rect2991-7-9-5"
+           width="653.05389"
+           height="255.30518"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4527">මෙහෙන් පටන්ගත්තොත්, උසස් තාක්ෂණික සංගමයෙ<flowSpan
+   style="letter-spacing:-10px"
+   id="flowSpan4403">න් </flowSpan>ආ,සිත් කුල්මත් කරවන උපායශීලී</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-4-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.95982882,0,0,0.99071553,677.2773,-145.33051)"><flowRegion
+         id="flowRegion2989-5-4-3-2"><rect
+           id="rect2991-7-9-5-0"
+           width="437.17215"
+           height="465.07932"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:110.00000238%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4529"><flowSpan
+   style="line-height:110.00000238%;letter-spacing:-12px"
+   id="flowSpan4384">... </flowSpan>අමතක කරන්නෙපා,අපේ පළාතේ කෙල්ල, කොමෝනාවේ කවුරුත් හඳුනන</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-4-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1124.8551,-102.97794)"><flowRegion
+         id="flowRegion2989-5-4-3-9"><rect
+           id="rect2991-7-9-5-3"
+           width="482.4017"
+           height="380.73993"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara3941"><flowSpan
+   style="letter-spacing:-12px"
+   id="flowSpan4388">... </flowSpan>අපේ තෙවන තරඟකාරිය, සඳබට නිමනයෙන් ආ,</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-4-99"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1676.0506,-127.15186)"><flowRegion
+         id="flowRegion2989-5-4-3-5"><rect
+           id="rect2991-7-9-5-9"
+           width="557.40173"
+           height="438.23993"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara4533"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold'"
+           id="flowSpan4399"><flowSpan
+   style="letter-spacing:-12px"
+   id="flowSpan4401"> ... </flowSpan>අන්තිමට, අපේ අවසන් තරඟකාරිය, ලේනාන්ත වනයෙන් ආ,</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3095"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3097"><rect
+           id="rect3099"
+           width="573.91302"
+           height="178.26086"
+           x="128.26086"
+           y="263.86972" /></flowRegion><flowPara
+         id="flowPara3101" /></flowRoot>    <flowRoot
+       transform="matrix(1.1614703,0,0,1.3822798,-45.679531,1.7154765)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot3103"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3105"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="265.53046"
+           x="120.55251"
+           height="191.17474"
+           width="541.5321"
+           id="rect3107" /></flowRegion><flowPara
+         id="flowPara3109"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">කොරියැන්ඩර්</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.1614703,0,0,1.3822798,585.85145,5.2154761)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot3103-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3105-1"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="265.53046"
+           x="120.55251"
+           height="191.17474"
+           width="541.5321"
+           id="rect3107-0" /></flowRegion><flowPara
+         id="flowPara3109-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">සැෆ්රෝන් !</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.1614703,0,0,1.3822798,1040.9059,3.9549934)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot3103-0-9-1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3105-1-5-6"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="265.53046"
+           x="120.55251"
+           height="191.17474"
+           width="541.5321"
+           id="rect3107-0-2-0" /></flowRegion><flowPara
+         id="flowPara3109-9-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">සිචිමි!</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.1614703,0,0,1.3822798,1638.4059,1.2154766)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot3103-0-9-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3105-1-5-7"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="265.53046"
+           x="120.55251"
+           height="191.17474"
+           width="541.5321"
+           id="rect3107-0-2-2" /></flowRegion><flowPara
+         id="flowPara3109-9-9-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.68843514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">පෙපර් !</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(42.081813,1365.6073)"><flowRegion
+         id="flowRegion2989-5-4-5"><rect
+           id="rect2991-7-9-47"
+           width="469.9017"
+           height="310.73993"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4539">එහෙනං තරඟය පටාන්ගමු!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(476.80074,1499.8263)"><flowRegion
+         id="flowRegion2989-5-4-4"><rect
+           id="rect2991-7-9-57"
+           width="517.15173"
+           height="273.23993"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:117.99999475%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4239">ලැබෙන අත්පුඩි </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:117.99999475%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4409">ප්‍රමාණය මත,</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:117.99999475%;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4411">ලකුණු පිරිණැමේ</flowPara></flowRoot>    <flowRoot
+       transform="translate(236.02576,1856.8014)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4212"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4214"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+           y="265.53046"
+           x="120.55251"
+           height="355.73993"
+           width="499.9017"
+           id="rect4216" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4545"> පළමුව කොරියැන්ඩර්ගේ නිරූපණයයි</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 780.28717,2580.2849 c -2.4049,47.1601 -60.1208,116.0864 -121.44397,107.924 73.34739,-26.3008 92.58602,-87.0647 87.77636,-101.5755 -4.80966,-14.5108 33.66761,-6.3485 33.66761,-6.3485 z"
+       id="path3978"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1241.5645,2288.9702 c -89.6471,-6.0129 -257.29259,-17.8141 -282.69274,-54.6434 -25.39998,-36.8292 -26.33895,-123.015 18.07653,-150.5226 32.76741,-20.2937 197.82991,-14.3583 275.52411,-7.5937 77.694,6.7646 176.0064,-8.2423 199.9122,26.332 23.906,34.5746 32.7262,157.9958 -67.3796,172.2765 -100.1059,14.2808 -143.4405,14.1512 -143.4405,14.1512 z"
+       id="path3970-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <flowRoot
+       transform="translate(783.37811,1843.7474)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4212-3-7"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4214-6-7"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+           y="265.53046"
+           x="120.55251"
+           height="310.73996"
+           width="602.40173"
+           id="rect4216-4-0" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;line-height:114%"
+         id="flowPara4560"><flowSpan
+   style="letter-spacing:-12px;line-height:114%"
+   id="flowSpan4443">...</flowSpan>තවදුරටත් මරණයට බයවෙන්න ඕනෑ නෑ,</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;line-height:114%"
+         id="flowPara4447"> ඒ මගේ<flowSpan
+   style="letter-spacing:-12px;line-height:114%"
+   id="flowSpan4445">...</flowSpan></flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1937.6537,2352.7854 c -109.7648,-7.8068 -270.7529,-33.1792 -301.8531,-80.9961 -31.1,-47.8169 -23.7823,-107.3442 40.2472,-133.6924 64.0292,-26.3481 173.7942,-48.7929 268.9237,-40.0102 95.1295,8.7828 219.5295,40.9861 248.8001,85.8754 29.2707,44.8895 1.8295,140.5236 -120.7411,159.0647 -122.5708,18.5414 -135.3768,9.7586 -135.3768,9.7586 z"
+       id="path3970-7-9"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="translate(1489.4921,1890.9669)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       id="flowRoot4212-3-7-9"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4214-6-7-9"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+           y="265.53046"
+           x="120.55251"
+           height="310.73996"
+           width="602.40173"
+           id="rect4216-4-0-2" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara4358-6" /></flowRoot>    <flowRoot
+       transform="translate(1499.4921,1978.4669)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4212-3-7-8"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4214-6-7-8"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+           y="265.53046"
+           x="120.55251"
+           height="310.73996"
+           width="602.40173"
+           id="rect4216-4-0-26" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4358-7">මායා වඩිය නිසා!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4)"
+       transform="matrix(0.84715954,-0.62646487,0,2.0031988,1442.6543,2830.0474)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-3-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-4)"
+       transform="matrix(0.81295734,-0.5582143,0,2.0745194,1392.2095,2686.9951)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-6"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-0-8"
+           width="411.91809"
+           height="61.042366"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-9"
+         style="font-weight:bold;font-size:48px;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:BhashitaComplex;font-style:normal;font-stretch:normal;font-variant:normal">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-3-4-1-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-8)"
+       transform="matrix(0.68718788,-0.45134506,0,1.6773561,1559.0774,2742.3451)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-62-2-4"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-0-4-6-7"
+           width="338.22775"
+           height="56.862598"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-6-4-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       transform="translate(384.26601,2179.0326)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4212-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4214-6"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+           y="265.53046"
+           x="120.55251"
+           height="310.73996"
+           width="602.40173"
+           id="rect4216-4" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4551">නෝනාවරුනී, </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle"
+         id="flowPara4427">මහත්වරුනී<flowSpan
+   style="font-size:50px;letter-spacing:-16px"
+   id="flowSpan4429">...</flowSpan></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.00848007px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1819.1338"
+       y="2058.5967"
+       id="text4452"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92521198,1.0808334)"><tspan
+         sodipodi:role="line"
+         id="tspan4454"
+         x="1819.1338"
+         y="2058.5967"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.39089966px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold'"><tspan
+           style="font-size:57.82574844px;letter-spacing:-11.10254383px"
+           id="tspan4460">...</tspan><tspan
+           style="font-size:80.95604706px;fill:#6d0000;fill-opacity:1"
+           id="tspan4470">පිල්ලිකරණ</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-5)"
+       transform="matrix(0.58327738,-0.36591336,0,1.1700532,1762.383,2945.0279)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-3"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-3"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-53)"
+       transform="matrix(0.69740065,-0.59987576,0,1.9181768,1619.8593,2848.9951)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-2"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-5"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-2)"
+       transform="matrix(0.61492971,-0.36379806,0,1.1632893,1996.136,2939.1421)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-9"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-1"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-6)"
+       transform="matrix(0.79485406,-0.49448129,0,1.581165,1834.3758,2901.9199)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-9"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-0-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-6-4)"
+       transform="matrix(0.86219587,-0.66734447,0,2.1339164,1678.585,2865.011)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-62"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-9-4"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-0-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-6-7)"
+       transform="matrix(0.76841951,-0.46855769,0,1.4982711,1997.0929,2942.9517)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-0"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-9-2"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-0-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-6-77)"
+       transform="matrix(0.94635732,-0.61460382,0,1.9652717,1803.2247,2921.5065)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-8"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-9-1"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-40"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-0-64"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-6-75)"
+       transform="matrix(0.61575283,-0.37844141,0,1.2101131,2215.9735,2971.7179)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-4"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-9-0"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-0-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-6-5)"
+       transform="matrix(1.0092931,-0.54067975,0,1.7288903,2092.0535,2785.4167)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-84"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-9-02"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-0-08"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-6-43)"
+       transform="matrix(1.0004088,-0.71952302,0,2.3007637,2003.807,2806.4445)"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-1"
+         style="stroke-width:5.40286207"><rect
+           id="rect2991-45-1-3-3-8-9-8"
+           width="341.11972"
+           height="57.471333"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">අත්පුඩි</flowPara></flowRoot>  </g>
+</svg>
