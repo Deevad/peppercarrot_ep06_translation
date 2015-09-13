@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 06 : The Potion Contest
+# Episode 06: The Potion Contest
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
@@ -11,60 +11,62 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors :
+## Translators and correctors:
 
-* Arabic     : Mahwiii
+* Arabic: Mahwiii
 
-* Català     : Juan José Segura
+* Català: Juan José Segura
 
-* Dutch      : Willem Sonke
+* Chinese: Ran Zhuang
 
-* English    : Alex Gryson
+* Dutch: Willem Sonke
 
-* Esperanto  : libre fan
+* English: Alex Gryson
 
-* Finnish	   : Kari Lehto
+* Esperanto: libre fan
 
-* French     : David Revoy, corrections: Aurélien Gâteau
+* Finnish: Kari Lehto
 
-* German     : Alexandra Jordan, Helmar Suschka
+* French: David Revoy, corrections: Aurélien Gâteau
 
-* Hungarian  : Halász Gábor "Hali"
+* German: Alexandra Jordan, Helmar Suschka
 
-* Indonesian : Bonaventura Aditya Perdana
+* Hungarian: Halász Gábor "Hali"
 
-* Italian    : Carlo Gandolfi
+* Indonesian: Bonaventura Aditya Perdana
 
-* Japanese   : guruguru
+* Italian: Carlo Gandolfi
 
-* Português  : Frederico Batista
+* Japanese: guruguru
 
-* Russian    : Denis "uncle Night" Prisukhin
+* Polish: Sölve Svartskogen
 
-* Slovak     : talime
+* Português: Frederico Batista
 
-* Spanish    : TheFaico
+* Russian: Denis "uncle Night" Prisukhin
 
-* Swedish    : Quiphius
+* Slovak: talime
 
-* Ukrainian  : Denis "uncle Night" Prisukhin
+* Spanish: TheFaico
 
-* Vietnamese : Binh Pham
+* Swedish: Quiphius
 
-* Chinese    : Ran Zhuang
+* Ukrainian: Denis "uncle Night" Prisukhin
 
-
-## Artwork :
-
-* David Revoy, www.peppercarrot.com
+* Vietnamese: Binh Pham
 
 
-## Infos :
+## Artwork:
 
-- Documentation : Translation/Correction full how-to documentation can be read [on the official website here](http://www.peppercarrot.com/fr/article267/how-to-add-a-translation-or-a-correction).
+* David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
 
-- Lincense agreement : Authors of every translations or contributions to this project accept to release this translation work under the license : [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-- Graphics : Do not edit or propose a commit for the artwork in these repositories ( gfx_ PNG files ). Artwork here are low-resolution proxy files only. The real hi-res layered artwork, kra files, are [available here](http://www.peppercarrot.com/en/static6/sources) and are too heavy to be shared on Github. Do a modification, host them, then send me the link to them.
+## Info:
 
-- Fonts : as a common resources, fonts are hosted on their own Github repository [here  github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts). All informations about font authors, licenses and links are managed on the README of this external repository. You can download the pack directly here : [github.com/Deevad/peppercarrot_fonts/archive/master.zip](https://github.com/Deevad/peppercarrot_fonts/archive/master.zip)
+- Documentation: Translation/Correction full how-to documentation can be read [on the official website here](http://www.peppercarrot.com/fr/article267/how-to-add-a-translation-or-a-correction).
+
+- License agreement: Authors of all translations or contributions to this project accept to release this translation work under the license: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+- Graphics: Do not edit or propose a commit for the artwork in these repositories (gfx_ PNG files). Artwork here are low-resolution proxy files only. The real hi-res layered artwork, kra files, are [available here](http://www.peppercarrot.com/en/static6/sources) and are too heavy to be shared on Github. Do a modification, host them, then send me the link to them.
+
+- Fonts: as a common resources, fonts are hosted on their own Github repository [here  github.com/Deevad/peppercarrot_fonts](https://github.com/Deevad/peppercarrot_fonts). All informations about font authors, licenses and links are managed on the README of this external repository. You can download the pack directly here: [github.com/Deevad/peppercarrot_fonts/archive/master.zip](https://github.com/Deevad/peppercarrot_fonts/archive/master.zip)
