@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep06_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -346,5 +346,5 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:start;text-anchor:start;fill:#a0a0a0;fill-opacity:1"
-         id="flowPara3080-9-7">* Se Episode 4 : Gemidraget</flowPara></flowRoot>  </g>
+         id="flowPara3080-9-7">* Se Episode 4 : Genidraget</flowPara></flowRoot>  </g>
 </svg>
