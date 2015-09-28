@@ -478,7 +478,7 @@
      showgrid="false"
      inkscape:zoom="0.40000002"
      inkscape:cx="1127.5555"
-     inkscape:cy="2661.262"
+     inkscape:cy="-538.73784"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -499,11 +499,11 @@
     <image
        sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep06_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -699,7 +699,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4020">vår sista deltagare, </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4533">från</flowPara><flowPara
+         id="flowPara4533">från skogen vid</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4018">Ekorrboda,</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"

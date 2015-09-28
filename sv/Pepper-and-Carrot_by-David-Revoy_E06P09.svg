@@ -54,7 +54,7 @@
      showgrid="false"
      inkscape:zoom="0.60835003"
      inkscape:cx="1080.6188"
-     inkscape:cy="645.23788"
+     inkscape:cy="3406.8059"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -67,11 +67,11 @@
     <image
        sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep06_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -221,7 +221,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara6944">det var min katts urinprov</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara6946">från senaste besöker hos vetrinären!</flowPara></flowRoot>    <flowRoot
+         id="flowPara6946">från senaste besöket hos vetrinären!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -349,7 +349,7 @@
                                    id="flowSpan3892" /></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.66233381,0,0,0.66233381,381.19429,3182.1491)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
@@ -357,7 +357,7 @@
            height="72.357925"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3272-6-3-1"><flowSpan
            style="fill:#1b1b1b;fill-opacity:1"
@@ -398,8 +398,8 @@
                                    id="flowSpan3890-2"><flowSpan
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
-   style="font-size:40.72923660000000012px"
-   id="flowSpan3980">March 2015 - </flowSpan>Artwork and story by David Revoy - Translation by Alex Gryson  </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
+   style="font-size:40.7292366px"
+   id="flowSpan3980">March 2015 - </flowSpan>Artwork and story by David Revoy - Translation by Mikael Olofsson  </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6922"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Times New Roman;font-style:normal;font-weight:normal;font-size:36px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Times New Roman"><flowRegion
