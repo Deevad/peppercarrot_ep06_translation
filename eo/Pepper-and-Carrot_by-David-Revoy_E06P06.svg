@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P06.svg">
@@ -235,7 +235,7 @@
      showgrid="false"
      inkscape:zoom="0.32918953"
      inkscape:cx="2037.7404"
-     inkscape:cy="2115.8015"
+     inkscape:cy="1265.2277"
      inkscape:window-x="2"
      inkscape:window-y="35"
      inkscape:window-maximized="1"
@@ -248,11 +248,11 @@
     <image
        sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -282,7 +282,7 @@
        sodipodi:nodetypes="csscczc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 702.76757,2078.0013 c -1.45586,-60.9074 30.57356,-133.3066 82.98525,-144.7986 52.41171,-11.4919 377.07328,-22.9839 404.73498,-14.9397 27.6619,8.0444 61.1472,22.984 88.8089,44.8187 27.6617,21.8348 49.5,58.609 45.1322,88.4881 -4.3675,29.8791 -24.7499,90.7865 -43.6764,106.8752 -18.9264,16.0887 -69.8822,54.0122 -120.8382,60.9074 -50.9558,6.8952 -110.647,12.6411 -133.9411,11.492 -23.2941,-1.1493 -142.67639,-8.0443 -142.67639,-8.0443 0,0 -64.05871,4.5966 -84.44113,-6.8953 -20.38228,-11.492 -72.79399,-31.0282 -88.80869,-79.2944 -16.01471,-48.2662 -7.27942,-17.238 -7.27942,-58.6091 z"
+       d="m 702.76757,2093.6445 c -1.45586,-66.7733 30.57356,-146.1453 82.98525,-158.7441 52.41171,-12.5986 377.07328,-25.1974 404.73498,-16.3785 27.6619,8.8192 61.1472,25.1976 88.8089,49.1352 27.6617,23.9377 49.5,64.2536 45.1322,97.0103 -4.3675,32.7568 -24.7499,99.5301 -43.6764,117.1683 -18.9264,17.6382 -69.8822,59.2141 -120.8382,66.7734 -50.9558,7.5593 -110.647,13.8585 -133.9411,12.5988 -23.2941,-1.26 -142.67639,-8.8191 -142.67639,-8.8191 0,0 -64.05871,5.0393 -84.44113,-7.5594 -20.38228,-12.5987 -72.79399,-34.0165 -88.80869,-86.9312 -16.01471,-52.9147 -7.27942,-18.8981 -7.27942,-64.2537 z"
        id="path3971"
        inkscape:connector-curvature="0" />
     <path
@@ -453,7 +453,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4203">Tiun tuj</flowPara><flowPara
+         id="flowPara4203">Tion tuj</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4201">donu al mi! </flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -494,7 +494,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4393">Ĉiuj jam scias, ke mi gajnis la konkurson, tiel io ajn, kion via trinkaĵo efikos ...</flowPara><flowPara
+         id="flowPara4393">Ĉiuj jam scias, ke mi gajnis la konkurson, tiel, kia ajn estu la efiko de via trinkaĵo ...</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4322" /><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
