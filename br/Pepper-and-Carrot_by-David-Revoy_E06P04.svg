@@ -477,12 +477,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900002"
-     inkscape:cx="1231.476"
-     inkscape:cy="197.02867"
+     inkscape:cx="975.33234"
+     inkscape:cy="3110.5045"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -492,23 +492,23 @@
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="artwork"
-     sodipodi:insensitive="true"
-     style="display:inline">
-    <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep06_translation-master/br/..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
-       y="0"
-       x="0"
-       id="image10"
-       height="3503"
-       width="2481" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep06_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
