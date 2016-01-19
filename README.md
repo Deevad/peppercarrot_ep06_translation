@@ -9,7 +9,7 @@
 License
 =======
 
-[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
 
