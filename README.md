@@ -23,6 +23,8 @@ License
 
 * Chinese: Ran Zhuang
 
+* Czech: Martin Doucha
+
 * Dutch: Willem Sonke
 
 * English: Alex Gryson
