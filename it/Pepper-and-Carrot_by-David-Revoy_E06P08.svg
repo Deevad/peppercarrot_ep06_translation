@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P08.svg">
@@ -126,8 +126,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60491496"
-     inkscape:cx="1228.3585"
-     inkscape:cy="1764.0053"
+     inkscape:cx="1126.6913"
+     inkscape:cy="3144.3646"
      inkscape:window-x="32"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -138,13 +138,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep06_IT/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep06_The-Potion-Contest/lang/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -210,18 +210,18 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3072">tocca a noi</flowPara></flowRoot>    <flowRoot
        transform="translate(198.43199,158.69514)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3045"
        xml:space="preserve"><flowRegion
          id="flowRegion3047"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
            y="265.53046"
            x="120.55251"
            height="310.73996"
            width="602.40173"
            id="rect3049" /></flowRegion><flowPara
          id="flowPara3055"
-         style="font-size:48px;text-align:center;text-anchor:middle">ecco quà : </flowPara></flowRoot>    <path
+         style="font-size:48px;text-align:center;text-anchor:middle">ecco qua : </flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 894.08615,776.05926 c 42.51329,20.49356 123.80235,14.32923 138.26235,-30.35733 -49.15569,36.55167 -109.63611,20.90132 -120.75593,10.89767 -11.11981,-10.00366 -17.50642,19.45966 -17.50642,19.45966 z"
        id="path3978"
