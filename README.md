@@ -43,6 +43,8 @@ License
 
 * Italian: Carlo Gandolfi
 
+* Latin: Guillaume Lestringant
+
 * Japanese: guruguru
 
 * Polish: Sölve Svartskogen
