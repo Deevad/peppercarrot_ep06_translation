@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46427222"
-     inkscape:cx="1226.5096"
-     inkscape:cy="622.74924"
+     inkscape:cx="760.18835"
+     inkscape:cy="2173.5635"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/next_ghost/src/pepper_carrot/ep6/cs/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -183,7 +183,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4426">Sakra, zase jsem</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3413">usnula s otevřený</flowPara><flowPara
+         id="flowPara3413">usnula s otevřeným</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3415">oknem...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
