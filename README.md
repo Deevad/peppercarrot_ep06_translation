@@ -45,6 +45,8 @@ License
 
 * Latin: Guillaume Lestringant
 
+* Lojban: Gleki Arxokuna
+
 * Japanese: guruguru
 
 * Polish: Sölve Svartskogen
