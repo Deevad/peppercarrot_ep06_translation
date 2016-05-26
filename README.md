@@ -19,7 +19,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Català: Juan José Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
@@ -29,7 +29,7 @@ License
 
 * English: Alex Gryson
 
-* Esperanto  : libre fan (librefan.eu.org), korektoj: kaoseto
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
 * Finnish: Kari Lehto
 
@@ -49,7 +49,7 @@ License
 
 * Polish: Sölve Svartskogen
 
-* Português: Frederico Batista
+* Portuguese: Frederico Batista
 
 * Russian: Denis "uncle Night" Prisukhin
 
