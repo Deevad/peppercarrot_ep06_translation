@@ -121,15 +121,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.2459502"
-     inkscape:cx="1062.8396"
-     inkscape:cy="1000.7185"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1225.4741"
+     inkscape:cy="2139.1603"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -138,13 +138,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep06_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep06_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -203,7 +203,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4656">i fadnu fa lo nu</flowPara><flowPara
+         id="flowPara4656">i fadni fa lo nu</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4658">ro da cliva</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
