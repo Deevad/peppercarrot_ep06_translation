@@ -526,15 +526,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32526913"
-     inkscape:cx="867.42938"
-     inkscape:cy="603.20966"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1113.3796"
+     inkscape:cy="480.23457"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -543,13 +543,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep06_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep06_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -611,9 +611,9 @@
    style="font-size:7.88612223px"
    id="flowSpan3133">x</flowSpan><flowSpan
    style="font-size:6.46212626px"
-   id="flowSpan3127"></flowSpan><flowSpan
+   id="flowSpan3127" /><flowSpan
    style="font-size:5.03813076px"
-   id="flowSpan3125"></flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan3125" /></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8-5-3"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3-3);enable-background:accumulate"
@@ -682,7 +682,7 @@
            width="602.40173"
            id="rect3451" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3455">ditcu lo nu mi zukte</flowPara></flowRoot>    <flowRoot
+         id="flowPara3455">tcini lo nu mi zukte</flowPara></flowRoot>    <flowRoot
        transform="translate(1801.4101,2559.4669)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3447-0"
@@ -708,7 +708,7 @@
            width="472.40173"
            id="rect3451-7-5" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3455-8-4">i lo nu jvina cu</flowPara><flowPara
+         id="flowPara3455-8-4">i lo nu jivna cu</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4647">mulno</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
