@@ -15,7 +15,10 @@
    inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P02.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P02.svg"
+   inkscape:export-filename="/home/stefan/Documents/Pepper&amp;Carrot/Rann 06/Pepper-and-Carrot_by-David-Revoy_E0602.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -45,7 +48,7 @@
      showgrid="false"
      inkscape:zoom="0.46000001"
      inkscape:cx="1263.4927"
-     inkscape:cy="379.77198"
+     inkscape:cy="-97.942396"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,7 +59,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep06_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep06_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
        y="0"
        x="0"
@@ -133,7 +136,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3130">Carrot! Moutig ken-ken out pa'z peus soñjet em c'has d'ar genstrivadeg !</flowPara><flowPara
+         id="flowPara3130">Carrot! Moutig ken-ken out pa'c'h eus soñjet em c'has d'ar genstrivadeg!</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3075" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -148,7 +151,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-6">Dreist-da-gaer !</flowPara></flowRoot>    <path
+         id="flowPara3030-6">Dreist-da-gaer!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1720.1342,2781.2408 c 7.7888,-68.5872 23.1883,-100.4107 69.9211,-111.6086 46.7326,-11.198 443.6193,-14.8433 472.8273,1.9535 29.2079,16.7972 73.9934,29.3946 61.3367,146.9728 -12.6569,117.5784 -70.6519,130.2734 -126.147,133.0731 -55.495,2.7994 -383.0445,32.0962 -429.7772,-32.2917 -46.7326,-64.388 -50.1081,-61.1133 -48.1609,-138.0991 z"
        id="path4010"
