@@ -126,8 +126,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.2459502"
-     inkscape:cx="1225.4741"
-     inkscape:cy="2139.1603"
+     inkscape:cx="1241.7376"
+     inkscape:cy="1817.9571"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -140,11 +140,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep06_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -205,9 +205,9 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4656">i fadni fa lo nu</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4658">ro da cliva</flowPara><flowPara
+         id="flowPara9386">ca lo ditcu pe mi'o</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara9386">ca lo ditcu pe mi'o</flowPara></flowRoot>    <flowRoot
+         id="flowPara3421">ro da cliva</flowPara></flowRoot>    <flowRoot
        transform="translate(208.59665,162.53048)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3045"
@@ -295,7 +295,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3211-2">la io nai</flowPara></flowRoot>    <path
+         id="flowPara3211-2">lo io nai</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 799.55794,2061.6662 c 41.54476,-24.9583 79.49671,-56.3087 125.21587,-73.8403 l -43.51369,-5.8567 c 12.70794,-14.5474 33.04403,-20.2182 50.79008,-28.9032 l -26.26055,-7.9369 c 30.43962,-33.9774 70.07719,-50.7411 105.26895,-75.8248 l -46.93148,-10.2988 c -32.40962,29.4099 -59.34882,63.5475 -97.91175,87.6396 l 24.81802,10.2865 c -12.06842,10.1205 -24.58698,19.7921 -39.1159,27.4588 l 32.36116,10.2326 z"
        id="path4032"

@@ -1287,8 +1287,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.28284273"
-     inkscape:cx="1134.8584"
-     inkscape:cy="2007.1107"
+     inkscape:cx="1247.9955"
+     inkscape:cy="2265.2047"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1302,11 +1302,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep06_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2278,7 +2278,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-07-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1607.8053,695.73364)"><flowRegion
+       transform="translate(1607.8053,687.73364)"><flowRegion
          id="flowRegion2989-5-4-5-12-9"><rect
            id="rect2991-7-9-6-2-7"
            width="578.48865"
@@ -2287,9 +2287,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4579">i lo mixre pe mi pu jai se kanpe be do i lo xabju be lo jibni tumla ba ku</flowPara><flowPara
+         id="flowPara4579">i lo mixre pe mi </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara7253">manci mixre bu</flowPara></flowRoot>    <flowRoot
+         id="flowPara3835">pu jai se kanpe do</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara7253">i lo xabju be lo jibni tumla ba manci le mixre</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-07-3-1-8-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"

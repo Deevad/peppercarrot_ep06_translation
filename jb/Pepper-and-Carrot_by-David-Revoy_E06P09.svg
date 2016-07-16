@@ -53,8 +53,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.43016843"
-     inkscape:cx="1323.9737"
-     inkscape:cy="1156.8837"
+     inkscape:cx="1249.5842"
+     inkscape:cy="731.46893"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -67,11 +67,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep06_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -204,7 +204,11 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3131">mi'a cnemu la piper i ta'o lo mixre pe do cu te finti jai rinka ma</flowPara></flowRoot>    <flowRoot
+         id="flowPara3131">mi'a cnemu la piper</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3449">i ta'o lo mixre pe do cu</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3451">te finti jai rinka ma</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -263,17 +267,17 @@
          id="flowPara10692">ti lo ka tigni</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(1184.8395,3152.5698)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
            id="rect2991-7-9-6-21-9-8-0-3"
-           width="1041.0548"
-           height="56.977448"
+           width="887.62653"
+           height="70.925476"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3272-6">i 6 moi pagbu fa lu lo nu jivna li'u</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;text-anchor:end" /></flowRegion><flowPara
+         style="font-size:48px;text-align:end;text-anchor:end;"
+         id="flowPara3272-6">i 6 moi pagbu fa la'e lu lo nu jivna li'u</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.90617713,0,-0.22078013,1.6225798,1900.3642,2973.4835)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
@@ -405,5 +409,5 @@
                                    style="fill:#ffffff;fill-opacity:1"
                                    id="flowSpan3892-9"><flowSpan
                                    style="font-size:40.7292366px"
-                                   id="flowSpan3980">  i de'i nanca bu 2015 masti bu 3 pu ku la'o gy.David Revoy.gy. finti lo lisri gi'e zbasu lo pixra i la gleki cu fanva</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
+                                   id="flowSpan3980">  i de'i li nanca bu 2015 masti bu 3 pu ku la'o gy.David Revoy.gy. finti lo lisri gi'e zbasu lo pixra i la gleki cu fanva</flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
 </svg>
