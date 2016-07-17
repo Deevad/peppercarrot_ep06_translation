@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep06_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -197,5 +197,5 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3124-1">i ai zgana lo nu </flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara7188">ma kau noi me lo mixre do pu se punji</flowPara></flowRoot>  </g>
+         id="flowPara7188">ma kau noi me lo mixre cu se punji do</flowPara></flowRoot>  </g>
 </svg>
