@@ -37,6 +37,8 @@ License
 
 * German: Alexandra Jordan, Helmar Suschka
 
+* Greek: George Karettas
+
 * Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
