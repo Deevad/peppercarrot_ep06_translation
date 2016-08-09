@@ -104,15 +104,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="852"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.63908468"
-     inkscape:cx="637.98702"
-     inkscape:cy="485.79365"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.90380222"
+     inkscape:cx="762.31881"
+     inkscape:cy="273.85807"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -121,7 +121,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/mnt/bitcoin/peppercarrot_ep06_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E06.png"
+     sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep06_The-Potion-Contest/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E06.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06.png"
      width="1100"
      height="765"
@@ -145,5 +145,5 @@
            y="644.36664"
            style="fill:#ffffff;fill-opacity:1;stroke:none" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0.14342356px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">i 6 moi fa la'e lu lo nu jivna li'u</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:68.8433075px;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0.14342356px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">Επεισόδιο 6 : Ο Διαγωνισμός Φίλτρου</flowPara></flowRoot>  </g>
 </svg>
