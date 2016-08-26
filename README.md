@@ -51,6 +51,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Shikamaru Yamamoto
+
 * Polish: Sölve Svartskogen
 
 * Portuguese: Frederico Batista
