@@ -51,6 +51,8 @@ License
 
 * Japanese: guruguru
 
+* Norwegian: Thomas Nordstrøm
+
 * Polish: Sölve Svartskogen
 
 * Portuguese: Frederico Batista
