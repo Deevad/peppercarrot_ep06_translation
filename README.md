@@ -51,6 +51,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Shikamaru Yamamoto
+
 * Norwegian: Thomas Nordstrøm
 
 * Polish: Sölve Svartskogen
