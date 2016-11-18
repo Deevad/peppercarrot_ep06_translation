@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30074963"
-     inkscape:cx="1008.4971"
-     inkscape:cy="1756.0465"
+     inkscape:cx="1139.014"
+     inkscape:cy="958.04053"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -60,11 +60,11 @@
     <image
        sodipodi:absref="/run/media/milenche/Data/Projekti/Pepper and Carrot Translations/peppercarrot_ep06_translation/sr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P10.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P10.png"
-       width="2481"
-       height="2479"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="2479"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -169,7 +169,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3278" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
-         id="flowPara3428">Отворен код: све изворне датотеке са фонтовима су доступне на званичној страници.</flowPara><flowPara
+         id="flowPara3428">Отворен код: све изворне датотеке са фонтовима и слојевима су доступне на званичној страници.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
          id="flowPara3430" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle"
