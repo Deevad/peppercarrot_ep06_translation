@@ -31,6 +31,8 @@ License
 
 * Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
+* Farsi: Aslan Zamanloo
+
 * Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Aurélien Gâteau
