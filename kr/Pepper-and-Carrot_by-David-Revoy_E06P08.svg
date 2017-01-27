@@ -140,11 +140,11 @@
     <image
        sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep06_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -231,6 +231,13 @@
        id="path3330-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1441.4333,792.86046 c 1.8123,17.9111 3.4719,36.60072 12.514,52.57918 2.6665,4.48827 5.7379,8.94714 9.7431,12.29849 4.9422,2.55729 10.902,0.92324 14.9972,-2.48609 6.2588,-4.50938 10.9613,-11.84776 18.8831,-13.58596 5.7972,-1.12556 10.4379,3.16953 14.6457,6.42604 10.5623,8.51108 20.0337,18.50261 31.8998,25.28467 12.8634,8.50453 27.0155,16.51979 42.7488,17.47511 6.2316,0.27366 12.7888,-0.31154 18.2031,-3.68195 14.2818,-8.01643 24.173,-24.34511 22.834,-40.90808 -1.8569,-10.48428 -12.9332,-19.03038 -23.5991,-16.39316 -5.6511,1.30784 -9.507,6.21921 -11.5244,11.3814 -5.4816,8.7963 -15.7551,13.86937 -26.0014,13.88113 -8.456,0.14805 -16.8709,-2.36044 -24.0764,-6.73748 -11.3704,-3.36484 -18.2685,-13.64874 -26.3598,-21.52774 -3.7502,-3.54453 -7.9795,-7.06083 -13.0234,-8.42848 -7.6564,-0.23923 -13.3775,5.76673 -17.631,11.40618 -4.5368,5.70318 -9.1549,12.83128 -16.9484,14.04463 -5.2949,1.57023 -8.0628,-4.3141 -11.2198,-7.42808 -8.8564,-11.35341 -14.0534,-25.32791 -16.0433,-39.50562 -0.089,-1.36474 -0.067,-2.72787 -0.042,-4.09419 z"
+       id="path4496"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-99.717282"
+       inkscape:transform-center-y="101.38562" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-8"
@@ -251,13 +258,6 @@
          id="flowPara3430">있을지는 알 것 같아,</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3432">캐럿</flowPara></flowRoot>    <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1441.4333,792.86046 c 1.8123,17.9111 3.4719,36.60072 12.514,52.57918 2.6665,4.48827 5.7379,8.94714 9.7431,12.29849 4.9422,2.55729 10.902,0.92324 14.9972,-2.48609 6.2588,-4.50938 10.9613,-11.84776 18.8831,-13.58596 5.7972,-1.12556 10.4379,3.16953 14.6457,6.42604 10.5623,8.51108 20.0337,18.50261 31.8998,25.28467 12.8634,8.50453 27.0155,16.51979 42.7488,17.47511 6.2316,0.27366 12.7888,-0.31154 18.2031,-3.68195 14.2818,-8.01643 24.173,-24.34511 22.834,-40.90808 -1.8569,-10.48428 -12.9332,-19.03038 -23.5991,-16.39316 -5.6511,1.30784 -9.507,6.21921 -11.5244,11.3814 -5.4816,8.7963 -15.7551,13.86937 -26.0014,13.88113 -8.456,0.14805 -16.8709,-2.36044 -24.0764,-6.73748 -11.3704,-3.36484 -18.2685,-13.64874 -26.3598,-21.52774 -3.7502,-3.54453 -7.9795,-7.06083 -13.0234,-8.42848 -7.6564,-0.23923 -13.3775,5.76673 -17.631,11.40618 -4.5368,5.70318 -9.1549,12.83128 -16.9484,14.04463 -5.2949,1.57023 -8.0628,-4.3141 -11.2198,-7.42808 -8.8564,-11.35341 -14.0534,-25.32791 -16.0433,-39.50562 -0.089,-1.36474 -0.067,-2.72787 -0.042,-4.09419 z"
-       id="path4496"
-       inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-99.717282"
-       inkscape:transform-center-y="101.38562" />
-    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1699.2864,1102.5376 c 48.3919,-56.2036 317.9575,-63.023 405.5318,-38.6729 87.5737,24.3499 107.4453,60.2328 111.5185,75.1135 4.0728,14.8805 6.6044,72.8281 -41.3794,101.8177 -36.8668,22.2731 -176.2897,33.5446 -221.0953,33.5446 -44.8051,0 -187.8335,-8.6103 -224.0266,-28.4084 -34.6225,-18.939 -78.9411,-87.1909 -30.549,-143.3945 z"
        id="path3330-7"
