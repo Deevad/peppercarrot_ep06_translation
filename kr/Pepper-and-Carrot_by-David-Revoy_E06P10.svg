@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.3"
      inkscape:cx="1211.4553"
-     inkscape:cy="1109.5587"
+     inkscape:cy="1642.892"
      inkscape:window-x="960"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
@@ -60,11 +60,11 @@
     <image
        sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep06_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P10.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P10.png"
-       width="2481"
-       height="2479"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="2479"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -92,7 +92,7 @@
        xml:space="preserve"
        id="flowRoot3027"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.85294,0,0,1.9307221,-1296.1175,-467.07576)"><flowRegion
+       transform="matrix(1.85294,0,0,1.9307221,-1299.4508,-447.07576)"><flowRegion
          id="flowRegion3029"><rect
            id="rect3031"
            width="1840.5787"
@@ -101,7 +101,7 @@
            y="224.47961"
            style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara4729"></flowPara><flowPara
+         id="flowPara4729" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3408">페퍼와 캐럿은 후원자들의 도움으로 완전히 무료이고 오픈소스이며 재정적 지원을</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
