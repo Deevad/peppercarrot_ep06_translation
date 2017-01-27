@@ -53,7 +53,7 @@ License
 
 * Japanese: guruguru
 
-* Korean: Shikamaru Yamamoto
+* Korean: Shikamaru Yamamoto, Jihoon Kim
 
 * Norwegian: Thomas Nordstrøm
 
