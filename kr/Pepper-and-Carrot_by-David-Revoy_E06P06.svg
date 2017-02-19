@@ -235,7 +235,7 @@
      showgrid="false"
      inkscape:zoom="0.55154329"
      inkscape:cx="1442.1908"
-     inkscape:cy="1718.4117"
+     inkscape:cy="775.60266"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -248,11 +248,11 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep06_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -330,7 +330,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3484">방금 전 시범이</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3474">시케미 씨에겐</flowPara><flowPara
+         id="flowPara3474">칠미 씨에겐</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3476">꽤 부담이 될 듯 합니다 !</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -411,7 +411,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3514">... 시케미 씨,</flowPara><flowPara
+         id="flowPara3514">... 칠미 씨,</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3502">어서 진행하시죠</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -428,7 +428,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3529">신사 숙녀 여러분,</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3506">시케미 씨가 기권을...</flowPara></flowRoot>    <path
+         id="flowPara3506">칠미 씨가 기권을...</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
        d="m 1618.3213,157.41564 c 13.9614,20.64118 23.9674,33.55064 35.9963,35.28944 12.0286,1.7388 25.9869,4.56755 36.5612,-2.65108 10.5742,-7.21868 30.2714,-12.80131 37.2986,-8.61123 7.0273,4.19022 32.3731,20.26938 37.9024,39.44478 5.5292,19.1755 34.1537,-13.68611 34.1537,-13.68611 0,0 -20.7993,-31.54082 -26.302,-35.96915 -5.503,-4.42841 -18.9396,-21.25501 -48.9021,-12.67692 -29.9625,8.57826 -46.5379,22.30117 -61.3531,22.946 -14.8151,0.64488 -36.063,-8.28143 -45.355,-24.08573 z"
        id="path3137"

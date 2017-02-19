@@ -54,7 +54,7 @@
      showgrid="false"
      inkscape:zoom="0.5939697"
      inkscape:cx="1193.0028"
-     inkscape:cy="686.05766"
+     inkscape:cy="686.0577"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -83,7 +83,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2016.3816,3304.5369 c 8.4336,-45.4874 38.3349,-72.6332 184.0076,-82.9045 145.6727,-10.2714 164.8401,42.5527 169.4403,68.9648 4.6003,26.412 0.7668,65.2964 -39.8683,85.1055 -40.6348,19.809 -129.572,24.2111 -161.7733,19.0753 -32.2013,-5.1356 -97.5534,-1.0097 -115.954,-17.8841 -18.4009,-16.8744 -33.5522,-32.739 -35.8523,-72.357 z"
+       d="m 1992.8114,3304.5369 c 9.5536,-45.4874 43.4258,-72.6332 208.444,-82.9045 165.0183,-10.2714 186.7311,42.5527 191.9423,68.9648 5.2112,26.412 0.8686,65.2964 -45.1629,85.1055 -46.0312,19.809 -146.7794,24.2111 -183.257,19.0753 -36.4777,-5.1356 -110.5087,-1.0097 -131.3529,-17.8841 -20.8446,-16.8744 -38.008,-32.739 -40.6135,-72.357 z"
        id="path3573-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -172,7 +172,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3461">... 지금 코모나를 당장 뜨지</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3464">않으면 바로 이걸</flowPara><flowPara
+         id="flowPara3464">않으면 지금 이걸</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3466">너한테 뿌려버릴거야!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -202,7 +202,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3131">페퍼 씨에게 대상을</flowPara><flowPara
+         id="flowPara3131">후추 씨에게 대상을</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3472">수여합니다.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
@@ -219,7 +219,12 @@
            y="2896.5054"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.68361664px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3509">... 흠... 사실, 포션은 아니에요; 저번에 제 고양이가 동물병원에 갔을 때 채취한 소변 시료에요!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3509">... 흠... 사실, 포션은 아니에요; 저번에 제 고양이가 동물병원에 갔을 때 채취한 소변 시료에요!</flowPara></flowRoot>    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1668.7516,2710.3259 c 13.773,24.5101 23.8586,39.9794 37.5558,43.2373 13.6971,3.2578 29.4987,7.941 42.5376,1.0686 13.0388,-6.8723 36.4297,-10.9208 44.0693,-5.4843 7.6397,5.4366 35.0842,26.1204 39.2838,48.072 4.1994,21.9517 41.0154,-11.4789 41.0154,-11.4789 0,0 -20.4282,-37.394 -26.2796,-42.928 -5.8518,-5.5342 -19.4537,-25.7408 -55.0447,-19.4866 -35.591,6.2541 -56.3045,19.7065 -73.4924,18.7955 -17.1878,-0.9109 -40.7145,-13.1826 -49.6452,-31.7956 z"
+       id="path3137"
+       inkscape:connector-curvature="0" />
+    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.54746532px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -233,12 +238,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.1898613px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3217-6">... 하하!</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.1898613px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3272">   예 ...</flowPara></flowRoot>    <path
-       style="fill:#ffffff;stroke:none"
-       d="m 1668.7516,2710.3259 c 13.773,24.5101 23.8586,39.9794 37.5558,43.2373 13.6971,3.2578 29.4987,7.941 42.5376,1.0686 13.0388,-6.8723 36.4297,-10.9208 44.0693,-5.4843 7.6397,5.4366 35.0842,26.1204 39.2838,48.072 4.1994,21.9517 41.0154,-11.4789 41.0154,-11.4789 0,0 -20.4282,-37.394 -26.2796,-42.928 -5.8518,-5.5342 -19.4537,-25.7408 -55.0447,-19.4866 -35.591,6.2541 -56.3045,19.7065 -73.4924,18.7955 -17.1878,-0.9109 -40.7145,-13.1826 -49.6452,-31.7956 z"
-       id="path3137"
-       inkscape:connector-curvature="0" />
-    <flowRoot
+         id="flowPara3272">   예 ...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
