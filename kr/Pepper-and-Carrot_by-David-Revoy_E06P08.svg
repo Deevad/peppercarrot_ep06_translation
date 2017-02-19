@@ -127,7 +127,7 @@
      showgrid="false"
      inkscape:zoom="0.5"
      inkscape:cx="1344.9141"
-     inkscape:cy="639.252"
+     inkscape:cy="2399.252"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -140,11 +140,11 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep06_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -249,7 +249,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3432">그래도 네가 들고 온</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3424">&quot;포션&quot;을 어떻게 쓸 수 있을지는 알 것 같아, 캐럿</flowPara></flowRoot>    <path
+         id="flowPara3424">&quot;포션&quot;을 어떻게 쓸 수 있을지는 알 것 같아, 당근아</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1661.1553,1088.6786 c 57.1679,-54.1945 375.6195,-60.7703 479.0755,-37.2905 103.4553,23.4795 126.9307,58.0798 131.7426,72.4286 4.8114,14.3486 7.8021,70.2249 -48.8836,98.1782 -43.5527,21.477 -208.2601,32.3456 -261.1912,32.3456 -52.9306,0 -221.8974,-8.3026 -264.6542,-27.393 -40.9013,-18.262 -93.2571,-84.0742 -36.0891,-138.2689 z"
        id="path3330-7"
@@ -285,18 +285,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.07210732px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.94167629,0,0,0.94167629,31.297314,166.24626)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.95975113px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.83619505"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-4"
-           width="957.42255"
-           height="493.87213"
-           x="60.464317"
-           y="2776.1248"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.28842926px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:2.38401341px;text-anchor:middle;stroke:#000000;stroke-width:1.74827647;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           width="901.58209"
+           height="465.06769"
+           x="94.23513"
+           y="2792.457"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:0.83619505" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.83900452px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:2.24496889px;text-anchor:middle;stroke:#000000;stroke-width:0.78742504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4687">내 마지막 포션</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.28842926px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:2.38401341px;text-anchor:middle;stroke:#000000;stroke-width:1.74827647;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.83900452px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:2.24496889px;text-anchor:middle;stroke:#000000;stroke-width:0.78742504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara3423">한 번 먹어 볼래? ...</flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 1797.6547,3221.0213 c 57.9539,10.0559 38.4579,-29.1424 34.7663,-34.0012 14.1145,8.1536 38.1635,-0.8175 13.1478,-29.198 35.543,11.3918 18.1445,6.02 -2.5361,-24.5295 31.3071,15.5342 51.0494,5.7083 28.8113,-15.8279 31.9431,27.6918 43.1997,18.8512 22.8268,-15.5352 40.1702,35.6171 32.6532,22.2031 22.864,4.6146 33.453,32.1026 8.5922,-15.6704 11.1501,-15.929 2.5579,-0.2589 13.3816,8.408 15.4382,8.095 2.0564,-0.3129 2.321,-13.6711 4.879,-13.9298 2.558,-0.2589 12.4744,12.5937 14.0296,12.2266 6.0331,4.5107 12.3861,-23.2422 12.2656,-27.5889 -2.5716,3.7697 12.1585,34.6638 17.2187,31.8484 1.4536,0.6925 18.5822,-35.5723 16.5364,-35.1591 -3.8155,0.7704 7.7324,26.5651 11.2068,25.8438 2.7627,4.7786 14.1724,-7.0605 14.6097,-15.0197 -1.0747,2.2521 8.4082,37.8823 13.9057,34.7029 2.4813,6.6828 20.8385,-6.6134 22.1821,-14.7361 1.7579,-2.4872 1.6904,14.105 3.6961,14.3219 -3.5392,8.1765 22.2608,-1.4809 26.4362,-6.244 0.4508,0.5843 -2.4889,8.6896 -3.0199,10.3829 -2.862,9.1256 20.7253,0.9885 27.0896,-7.7798 -24.5447,43.7563 47.1014,0.8958 55.7233,-5.2187 3.3073,2.4998 -26.7232,41.0184 -24.5203,44.4695 2.2031,3.4512 11.5844,0.7174 11.9336,2.3624 0.3492,1.6442 -6.3273,7.8833 -5.026,10.1659 1.3017,2.2825 17.5398,12.6063 18.7907,15.4187 1.2508,2.8128 -8.4346,8.7264 -6.5808,10.5334 1.8538,1.807 30.476,15.0762 30.7239,17.7802 0.248,2.7041 -16.5139,13.7426 -14.8629,17.6694 1.6509,3.9269 7.0146,6.1133 6.2597,8.7091 -0.755,2.5957 -10.5869,4.7452 -10.339,7.4494 0.248,2.7042 3.9948,16.4961 5.2964,18.7785 1.3015,2.2828 -10.6319,-0.079 -10.8346,2.0412 -0.2074,2.1195 -32.0874,9.709 17.3123,49.5612 -53.6544,-25.4505 -47.3485,-5.6882 -64.302,-3.238 -16.9538,2.4504 -12.97,29.6546 -15.6293,30.9735 -2.6593,1.3187 -20.199,-11.2875 -23.0613,-7.8488 -2.8623,3.4387 -4.5242,10.2202 -6.5303,10.0032 -2.0056,-0.2155 -17.6345,-12.824 -20.1923,-12.5653 -20.0538,-9.7479 -30.209,13.336 -26.4031,17.7 -3.5608,0.1504 -16.1875,-10.8537 -19.1455,-11.709 -2.958,-0.8554 -6.7329,12.1231 -9.1387,10.7921 -2.4059,-1.331 -17.5397,-12.6064 -20.1482,-11.8174 -2.6089,0.7888 -5.0203,4.8119 -6.9247,3.5346 -1.9044,-1.2766 -10.5249,-6.4927 -10.5249,-6.4927 0,0 -6.8232,2.475 -9.8318,2.1496 -3.0089,-0.3232 -21.8951,-20.0382 -24.3008,-21.3694 -2.406,-1.3311 -44.5259,26.3975 -43.3257,29.7402 1.2001,3.3428 -1.7546,-35.151 -5.1127,-37.1206 -3.3579,-1.9696 -14.3449,1.6615 -15.1955,-0.037 -0.8509,-1.6984 -3.0484,-10.5033 -6.0064,-11.3588 -2.9581,-0.8554 -9.7755,-3.7344 -9.7755,-3.7344 l 1.3071,-3.0717 c 0,0 -21.8724,6.2022 -24.6838,9.111 -2.8116,2.9086 2.8227,-13.6169 4.7328,-17.6943 -9.4318,3.2641 -36.871,9.3995 -39.1301,11.8325 -2.2595,2.4329 4.4225,-9.1603 7.7863,-12.5448 -4.1636,1.1563 -7.7246,1.3067 -7.7246,1.3067 l 12.7504,-11.4724 -3.409,-1.4395 c 0,0 8.0797,-5.0166 8.3331,-7.6666 0.2568,-2.6494 -18.9987,-7.9447 -18.9987,-7.9447 58.8357,1.4697 16.1658,-18.0658 -6.7951,-24.2961 z"
@@ -312,7 +311,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72170995;"
        transform="matrix(1.6809785,0,0,1.6809785,1308.4556,2696.5599)"><flowRegion
          id="flowRegion2989-5-4-5-1-6"><rect
            id="rect2991-7-9-6-4-7"
@@ -320,10 +319,10 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle;stroke-width:0.72170995;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:0.72170995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          id="flowPara4202">... 그래,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:0.72170995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          id="flowPara3438">싫지 ?</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 406.08001,1589.2705 c -3.94008,12.0585 -25.39102,50.6462 -32.42385,13.808 -36.10835,56.9643 -77.46948,47.2261 -118.53193,41.2791 -8.11593,16.6421 -6.04714,39.3259 -40.00537,40.6382 6.77653,13.5602 -2.94297,25.7265 -27.38161,36.6495 34.90934,2.0885 42.4028,9.8895 -18.61088,31.9653 47.64896,-8.47 92.26677,-15.3211 41.38111,28.8338 17.60506,-2.662 55.04266,-38.5128 47.55458,46.1857 26.275,-31.8437 56.25209,-52.4812 104.4378,-6.2197 9.22645,-23.8615 25.58936,-41.98 65.44427,-19.8094 4.49175,-22.7603 47.15714,-33.0197 63.58693,-31.8279 -35.3278,-17.4701 -36.39927,-32.4555 6.49659,-43.3111 -78.78384,-28.4923 -18.5894,-33.7655 -8.49652,-46.9456 -59.09188,-3.4933 -36.31208,-26.8904 -28.85947,-47.1929 -65.52394,12.33 -48.40932,-21.2424 -54.59165,-44.053 z"
