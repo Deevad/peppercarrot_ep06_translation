@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P06.svg"
@@ -230,15 +230,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49782916"
      inkscape:cx="1036.9732"
-     inkscape:cy="2861.8216"
+     inkscape:cy="692.40268"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:document-units="px" />
@@ -250,11 +250,11 @@
     <image
        sodipodi:absref="/home/hsc/graphics/Projekte/peppercarrot/ep006-potion-contest/peppercarrot_ep06_translation/de_helmar/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -481,7 +481,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4241">... und tu nicht so,</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4358">als wärest du schüchtern,</flowPara><flowPara
+         id="flowPara4358">als wärst du schüchtern,</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4360">du verdirbst nur</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
@@ -500,7 +500,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4241-7">Es ist ohnehin schon</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4364">Allen klar, dass ich</flowPara><flowPara
+         id="flowPara4364">allen klar, dass ich</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4366">gewonnen habe, egal was</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
