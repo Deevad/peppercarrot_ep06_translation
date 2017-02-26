@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P09.svg"
@@ -49,15 +49,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60835003"
-     inkscape:cx="1080.6188"
-     inkscape:cy="645.23785"
+     inkscape:zoom="0.43016843"
+     inkscape:cx="1359.5793"
+     inkscape:cy="552.25102"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:document-units="px" />
@@ -69,11 +69,11 @@
     <image
        sodipodi:absref="/home/hsc/graphics/Projekte/peppercarrot/ep006-potion-contest/peppercarrot_ep06_translation/de_helmar/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P09.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -191,7 +191,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-8">Weil Sie unsere Stadt aus</flowPara><flowPara
+         id="flowPara3030-8-8">Weil sie unsere Stadt aus</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4268">großer Gefahr gerettet hat,</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -208,7 +208,7 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3131">vergeben wir den ersten Platz</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara4270">an Pepper für Ihren Trank</flowPara><flowPara
+         id="flowPara4270">an Pepper für ihren Trank</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara4272">des ... ??!!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
