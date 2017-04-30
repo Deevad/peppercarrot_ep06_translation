@@ -25,6 +25,8 @@ License
 
 * Czech: Martin Doucha
 
+* Danish: [Alexandre](https://github.com/Alkarex), [Emmiline](https://github.com/Emmilinette), and Rikke Skaaning Alapetite
+
 * Dutch: Willem Sonke
 
 * English: Alex Gryson
