@@ -126,8 +126,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32"
-     inkscape:cx="1209.9484"
-     inkscape:cy="1853.5862"
+     inkscape:cx="1155.2609"
+     inkscape:cy="1103.5862"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -140,11 +140,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep06_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P08.png"
-       width="2646.3999"
-       height="3736.5334"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -336,11 +336,9 @@
            y="2975.9138"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;letter-spacing:1.60000002px;text-anchor:middle;stroke:#000000;stroke-width:1.17333341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4086">Kunne du tænke</flowPara><flowPara
+         id="flowPara4582">Kunne du tænke</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;letter-spacing:1.60000002px;text-anchor:middle;stroke:#000000;stroke-width:1.17333341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara1129" /><flowPara
-         style="font-size:51.20000076px;line-height:1.25;text-align:center;letter-spacing:1.60000002px;text-anchor:middle;stroke:#000000;stroke-width:1.17333341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara1000">dig at prøve den</flowPara><flowPara
+         id="flowPara4586">dig at prøve den</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;letter-spacing:1.60000002px;text-anchor:middle;stroke:#000000;stroke-width:1.17333341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara1002">sidste eliksir?...</flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
