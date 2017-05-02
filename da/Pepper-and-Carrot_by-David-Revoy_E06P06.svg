@@ -234,8 +234,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32918953"
-     inkscape:cx="1264.5118"
-     inkscape:cy="1756.5278"
+     inkscape:cx="1211.3509"
+     inkscape:cy="1790.0944"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -248,11 +248,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep06_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       width="2646.3999"
-       height="3736.5334"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -460,7 +460,7 @@
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara4201">Giv mig</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara959">det! </flowPara></flowRoot>    <path
+         id="flowPara959">det dér! </flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672px;marker:none;enable-background:accumulate"
        d="m 146.8967,1610.9003 c 27.99657,-50.8087 49.77167,-53.9194 65.32532,-58.067 2.07382,5.1845 7.25836,13.4798 7.25836,13.4798 0,0 30.07038,-11.406 42.51331,-11.406 12.44291,0 12.44291,17.6275 12.44291,17.6275 0,0 -58.06695,23.8489 -69.47295,33.181 -5.18455,-14.5167 -9.33218,-20.7381 -9.33218,-26.9595 -9.3322,-1.037 -38.36567,14.5166 -48.73477,32.1442 z"
        id="path4456"
