@@ -234,8 +234,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32918953"
-     inkscape:cx="1211.3509"
-     inkscape:cy="1790.0944"
+     inkscape:cx="1158.19"
+     inkscape:cy="2154.626"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -248,11 +248,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep06_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2646.3999"
        height="3736.5334"
-       width="2646.3999" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -609,9 +609,7 @@
          style="font-size:43.56166077px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.90753466"
          id="flowPara1007">at vi skulle lave</flowPara><flowPara
          style="font-size:43.56166077px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.90753466"
-         id="flowPara1064">en demonstration</flowPara><flowPara
-         style="font-size:43.56166077px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.90753466"
-         id="flowPara4241-2"> </flowPara></flowRoot>    <path
+         id="flowPara4241-2">en demonstration</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672px;marker:none;enable-background:accumulate"
        d="m 505.21835,761.49718 c -70.19962,42.42902 -139.33932,36.14687 -154.45656,50.07022 -15.11724,13.92335 -32.5778,27.48099 -28.40769,62.96885 4.17011,35.48784 40.32648,37.91969 40.32648,37.91969 l 26.31403,-20.79561 c 0,0 -22.82758,-33.58026 -4.70388,-50.9615 18.1237,-17.38126 91.46362,-25.23396 120.92762,-79.20165 z"
        id="path3994-89"
