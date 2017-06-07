@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E06P06.svg"
@@ -213,7 +213,7 @@
       <feMorphology
          id="feMorphology4393-1-0-49-8-2"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite4385-9-5-7-2-1"
@@ -232,15 +232,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1381"
-     inkscape:window-height="876"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32918953"
-     inkscape:cx="806.48597"
+     inkscape:cx="335.6326"
      inkscape:cy="448.172"
-     inkscape:window-x="59"
-     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -249,13 +249,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep06_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep06_The-Potion-Contest/lang/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -529,11 +529,11 @@
          id="flowRegion4135-2-9-3-5"
          style="stroke-width:0.86646658"><rect
            id="rect4137-1-7-1-2"
-           width="68.471939"
-           height="26.505198"
+           width="76.374702"
+           height="31.387936"
            x="1125.3193"
            y="1078.5308"
-           style="letter-spacing:0.00204969px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate" /></flowRegion><flowPara
+           style="color:#000000;letter-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0.00204969px;word-spacing:0.00204969px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"><flowSpan
    id="flowSpan4821"
@@ -545,9 +545,9 @@
    style="font-size:13.67259789px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate"
    id="flowSpan4273">I</flowSpan><flowSpan
    id="flowSpan4277"
-   style="font-size:17.85409164px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate">IO<flowSpan
-   style="font-size:19.99008369px"
-   id="flowSpan4819">O</flowSpan></flowSpan></flowPara></flowRoot>    <path
+   style="font-size:17.85409164px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate">IO</flowSpan><flowSpan
+   style="font-size:20.5px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate"
+   id="flowSpan4819">O</flowSpan></flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1952.409,2472.6166 c -2.6739,-27.994 22.9932,-49.7975 96.0989,-72.9861 73.1059,-23.1887 175.0403,-25.2718 201.5514,-21.261 26.5111,4.011 156.9367,12.7076 183.9354,31.6336 26.9988,18.9259 48.3201,25.5766 40.1832,45.6561 -8.1367,20.0794 -16.236,41.3062 -47.5992,50.2607 -31.3634,8.9547 -255.6909,32.8583 -292.694,30.685 -37.003,-2.1734 -96.7072,0.5906 -128.7454,-11.1063 -32.4804,-11.8583 -50.0564,-24.8878 -52.7303,-52.882 z"
        id="path3373"

@@ -210,7 +210,7 @@
       <feMorphology
          id="feMorphology4393-1-0-49-8-2"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite4385-9-5-7-2-1"
@@ -550,9 +550,9 @@
    style="color:#000000;font-size:13.67259789px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate"
    id="flowSpan4273">I</flowSpan><flowSpan
    id="flowSpan4277"
-   style="color:#000000;font-size:17.85409164px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate">IO<flowSpan
-   style="font-size:19.99008369px"
-   id="flowSpan4819">O</flowSpan></flowSpan></flowPara></flowRoot>    <path
+   style="color:#000000;font-size:17.85409164px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate">IO</flowSpan><flowSpan
+   style="font-size:20.5px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate"
+   id="flowSpan4819">O</flowSpan></flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672px;marker:none;enable-background:accumulate"
        d="m 2082.5696,2637.4577 c -2.8522,-29.8603 24.5261,-53.1173 102.5055,-77.8518 77.9796,-24.7346 186.7096,-26.9566 214.9882,-22.6784 28.2785,4.2784 167.3991,13.5547 196.1977,33.7425 28.7987,20.1876 51.5415,27.2817 42.8621,48.6998 -8.6792,21.418 -17.3184,44.06 -50.7725,53.6114 -33.4543,9.5517 -272.7369,35.0489 -312.2069,32.7307 -39.4699,-2.3183 -103.1544,0.63 -137.3284,-11.8467 -34.6458,-12.6489 -53.3935,-26.547 -56.2457,-56.4075 z"
        id="path3373"

@@ -210,7 +210,7 @@
       <feMorphology
          id="feMorphology4393-1-0-49-8-2"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite4385-9-5-7-2-1"
@@ -544,9 +544,9 @@
    style="font-size:13.67259789px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate"
    id="flowSpan4273">I</flowSpan><flowSpan
    id="flowSpan4277"
-   style="font-size:17.85409164px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate">IO<flowSpan
-   style="font-size:19.99008369px"
-   id="flowSpan4819">O</flowSpan></flowSpan></flowPara></flowRoot>    <path
+   style="font-size:17.85409164px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate">IO</flowSpan><flowSpan
+   style="font-size:20.5px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate"
+   id="flowSpan4819">O</flowSpan></flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 2459.4288,2528.3884 c -37.7622,3.8768 -50.6704,29.1803 4.182,42.758 -4.9579,-1.2656 -20.4289,-24.29 -13.58,32.5257 -11.503,-5.667 -20.7208,-3.0341 -15.6658,51.4343 -9.2182,1.8602 -34.1888,-27.6425 -14.2689,32.2327 -20.427,-19.974 -33.4169,-19.0349 -43.6513,-10.35 -36.6012,-41.9202 -36.7288,-17.2093 -47.4627,-11.8745 -12.0866,-11.79 -25.2721,-11.6747 -40.3343,8.7623 -3.9823,-15.9825 -17.4664,-12.4197 -34.0199,-2.5444 -13.3215,-37.5715 -48.046,-16.5439 -74.0632,-19.3547 -33.6492,-36.5732 -83.7175,-6.3008 -126.5309,-5.5664 -34.9003,6.7652 -79.4482,-1.9612 -98.2545,30.645 3.7131,-28.7261 -9.786,-13.6473 -23.5275,2.0487 -2.9161,-5.5395 14.4265,-32.6186 -30.9473,6.9845 0.9144,-13.2615 5.5524,-30.6496 -22.0092,-12.3622 -3.3909,-8.1282 18.478,-40.79 -37.6687,2.3197 -0.6005,-11.5709 9.6578,-34.5106 -29.3878,-5.8292 30.4979,-69.3968 12.8101,-61.6933 -8.7643,-47.7706 16.0314,-40.9005 36.7594,-91.6461 -6.5657,-88.9656 33.7217,-10.0234 32.7725,-23.9495 27.6545,-45.6661 43.684,43.0916 47.8336,9.628 66.1143,3.5277 19.6396,6.9315 38.2435,33.3553 60.2536,-4.3502 35.566,14.6616 42.1807,0.4622 53.5326,-9.0152 62.2034,28.2524 60.1432,4.4242 87.8378,4.7096 17.2901,36.0907 53.512,7.9257 80.4589,11.2425 34.6999,29.2017 76.0053,9.8079 101.734,-5.1443 10.9838,12.1314 19.0334,30.737 45.496,8.7162 18.2132,23.3137 36.74,23.9606 55.6217,-1.0652 5.4874,14.7648 19.7118,16.8922 54.4341,-10.6301 -15.3386,24.9237 5.9638,34.2045 29.3825,42.5818 z"
        id="path3557-6"

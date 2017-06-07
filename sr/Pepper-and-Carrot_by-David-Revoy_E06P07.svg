@@ -82,7 +82,7 @@
       <feMorphology
          id="feMorphology6719"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6721"
@@ -109,7 +109,7 @@
       <feMorphology
          id="feMorphology6729"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6731"
@@ -136,7 +136,7 @@
       <feMorphology
          id="feMorphology6739"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6741"
@@ -163,7 +163,7 @@
       <feMorphology
          id="feMorphology6749"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6751"
@@ -190,7 +190,7 @@
       <feMorphology
          id="feMorphology6759"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6761"
@@ -217,7 +217,7 @@
       <feMorphology
          id="feMorphology6769"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6771"
@@ -244,7 +244,7 @@
       <feMorphology
          id="feMorphology6779"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6781"
@@ -325,7 +325,7 @@
       <feMorphology
          id="feMorphology4393-1-0-49-8-2-7-6"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.5"
          result="result3" />
       <feComposite
          id="feComposite4385-9-5-7-2-1-2-4"
@@ -352,7 +352,7 @@
       <feMorphology
          id="feMorphology6898"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6900"
@@ -379,7 +379,7 @@
       <feMorphology
          id="feMorphology6908"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6910"
@@ -406,7 +406,7 @@
       <feMorphology
          id="feMorphology6918"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6920"
@@ -433,7 +433,7 @@
       <feMorphology
          id="feMorphology6928"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6930"
@@ -460,7 +460,7 @@
       <feMorphology
          id="feMorphology6938"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6940"
@@ -487,7 +487,7 @@
       <feMorphology
          id="feMorphology6948"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6950"
@@ -514,7 +514,7 @@
       <feMorphology
          id="feMorphology6958"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6960"
@@ -533,15 +533,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32526913"
-     inkscape:cx="1017.0564"
-     inkscape:cy="175.70684"
+     inkscape:cx="1004.7589"
+     inkscape:cy="2115.6389"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -550,13 +550,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/run/media/milenche/Data/Projekti/Pepper and Carrot Translations/peppercarrot_ep06_translation/sr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep06_The-Potion-Contest/lang/sr/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -594,7 +594,7 @@
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8-5"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate"
-       transform="matrix(8.3099216,-5.4900388,-0.26452567,16.18078,-8894.6563,-10450.938)"><flowRegion
+       transform="matrix(8.3099216,-5.4900388,-0.26452567,16.18078,-8771.6812,-10610.806)"><flowRegion
          id="flowRegion4135-2-9-3-5-2"
          style="stroke-width:0.86646658"><rect
            id="rect4137-1-7-1-2-1"
@@ -604,7 +604,7 @@
            y="1078.5308"
            style="color:#000000;letter-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8-6"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.85409164px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0.00204969px;word-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate">КУ-КУ-<flowSpan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.85409164px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;letter-spacing:0.00204969px;word-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">КУ-КУ-<flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.71809769px;font-family:Neucha;-inkscape-font-specification:Neucha"
    id="flowSpan3145">Ри</flowSpan><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.0060997px;font-family:Neucha;-inkscape-font-specification:Neucha"

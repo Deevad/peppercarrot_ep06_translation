@@ -230,14 +230,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49782916"
-     inkscape:cx="1142.0747"
-     inkscape:cy="2881.4347"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1354.9991"
+     inkscape:cy="605.55355"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -246,13 +246,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Desktop\Pepper&amp;Carrot\peppercarrot_ep06_translation-master\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep06_The-Potion-Contest/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -506,7 +506,7 @@
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.67302799px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:start;letter-spacing:0.00204969px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate"
-       transform="matrix(2.8424391,-8.96526,17.796825,13.266249,-22045.981,-1164.175)"
+       transform="matrix(2.8424391,-8.96526,17.796825,13.266249,-22033.929,-1308.8029)"
        inkscape:transform-center-x="177.19081"><flowRegion
          id="flowRegion4135-2-9-3-5"
          style="stroke-width:0.86646658"><rect
@@ -516,7 +516,13 @@
            x="1125.3193"
            y="1078.5308"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.67302799px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Normal';text-align:start;letter-spacing:0.00204969px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1);enable-background:accumulate" /></flowRegion><flowPara
-         id="flowPara4415">グアオオオオオ</flowPara></flowRoot>    <path
+         id="flowPara4415"><flowSpan
+   id="flowSpan4280"
+   style="font-size:8.95604229px">グ</flowSpan><flowSpan
+   style="font-size:10.73603725px"
+   id="flowSpan4274">アオ</flowSpan>オ<flowSpan
+   style="font-size:17.85601425px"
+   id="flowSpan4278">オオオ</flowSpan></flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1952.409,2472.6166 c -2.6739,-27.994 22.9932,-49.7975 96.0989,-72.9861 73.1059,-23.1887 175.0403,-25.2718 201.5514,-21.261 26.5111,4.011 156.9367,12.7076 183.9354,31.6336 26.9988,18.9259 48.3201,25.5766 40.1832,45.6561 -8.1367,20.0794 -16.236,41.3062 -47.5992,50.2607 -31.3634,8.9547 -255.6909,32.8583 -292.694,30.685 -37.003,-2.1734 -96.7072,0.5906 -128.7454,-11.1063 -32.4804,-11.8583 -50.0564,-24.8878 -52.7303,-52.882 z"
        id="path3373"
@@ -568,7 +574,7 @@
          id="flowPara4286">実演しないと</flowPara><flowPara
          id="flowPara4288">いけないなんて</flowPara><flowPara
          id="flowPara4290">知らなかった...</flowPara><flowPara
-         id="flowPara4292"></flowPara></flowRoot>    <path
+         id="flowPara4292" /></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 473.6422,713.90361 c -65.81214,39.7772 -130.63061,33.88769 -144.80302,46.94083 -14.17241,13.05314 -30.54169,25.76343 -26.63221,59.03329 3.90948,33.26985 37.80607,35.54971 37.80607,35.54971 l 24.66941,-19.49588 c 0,0 -21.40086,-31.48149 -4.40989,-47.77641 16.99097,-16.29493 85.74714,-23.65683 113.36964,-74.25154 z"
        id="path3994-89"

@@ -75,7 +75,7 @@
       <feMorphology
          id="feMorphology6719"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6721"
@@ -102,7 +102,7 @@
       <feMorphology
          id="feMorphology6729"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6731"
@@ -129,7 +129,7 @@
       <feMorphology
          id="feMorphology6739"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6741"
@@ -156,7 +156,7 @@
       <feMorphology
          id="feMorphology6749"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6751"
@@ -183,7 +183,7 @@
       <feMorphology
          id="feMorphology6759"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6761"
@@ -210,7 +210,7 @@
       <feMorphology
          id="feMorphology6769"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6771"
@@ -237,7 +237,7 @@
       <feMorphology
          id="feMorphology6779"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6781"
@@ -318,7 +318,7 @@
       <feMorphology
          id="feMorphology4393-1-0-49-8-2-7-6"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite4385-9-5-7-2-1-2-4"
@@ -345,7 +345,7 @@
       <feMorphology
          id="feMorphology6898"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6900"
@@ -372,7 +372,7 @@
       <feMorphology
          id="feMorphology6908"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6910"
@@ -399,7 +399,7 @@
       <feMorphology
          id="feMorphology6918"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6920"
@@ -426,7 +426,7 @@
       <feMorphology
          id="feMorphology6928"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6930"
@@ -453,7 +453,7 @@
       <feMorphology
          id="feMorphology6938"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6940"
@@ -480,7 +480,7 @@
       <feMorphology
          id="feMorphology6948"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6950"
@@ -507,7 +507,7 @@
       <feMorphology
          id="feMorphology6958"
          operator="dilate"
-         radius="0.59999999999999998"
+         radius="0.321"
          result="result3" />
       <feComposite
          id="feComposite6960"
@@ -526,15 +526,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32526913"
-     inkscape:cx="1166.9053"
-     inkscape:cy="3117.5934"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="748.79"
+     inkscape:cy="2198.8652"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -543,13 +543,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="G:\Pepper And Carrot\Translation\peppercarrot_ep06_translation-master\el\..\gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep06_The-Potion-Contest/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -586,8 +586,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8-5"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate;"
-       transform="matrix(8.3099216,-5.4900388,-0.26452567,16.18078,-8894.6563,-10450.938)"><flowRegion
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate"
+       transform="matrix(8.3099216,-5.4900388,-0.26452567,16.18078,-8860.8382,-10493.979)"><flowRegion
          id="flowRegion4135-2-9-3-5-2"
          style="stroke-width:0.86646658"><rect
            id="rect4137-1-7-1-2-1"
@@ -595,13 +595,21 @@
            height="39.051064"
            x="1125.3193"
            y="1078.5308"
-           style="color:#000000;letter-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8-6"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.85409164px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate;">κοΚΟΟΥ-ΚΟ-κο-ΚοοΥ</flowPara></flowRoot>    <flowRoot
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.85409164px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">κοΚΟΟΥ<flowSpan
+   style="font-size:14.6025362px"
+   id="flowSpan4263">-ΚΟ</flowSpan><flowSpan
+   id="flowSpan4267"
+   style="font-size:13.51868439px">-κο</flowSpan><flowSpan
+   id="flowSpan4271"
+   style="font-size:9.83358765px">-Κο</flowSpan><flowSpan
+   id="flowSpan4275"
+   style="font-size:8.74973583px">οΥ</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8-5-3"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3-3);enable-background:accumulate"
-       transform="matrix(9.5870221,-1.5691407,-6.0483171,15.572657,-2606.9138,-12927.809)"><flowRegion
+       transform="matrix(9.5870221,-1.5691407,-6.0483171,15.572657,-2628.4344,-12918.586)"><flowRegion
          id="flowRegion4135-2-9-3-5-2-5"
          style="stroke-width:0.86646658"><rect
            id="rect4137-1-7-1-2-1-3"
@@ -611,7 +619,7 @@
            y="1078.5308"
            style="color:#000000;letter-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3-3);enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8-6-3"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';letter-spacing:0.00204969px;word-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3-3);enable-background:accumulate;">ΜΠΑΜ!</flowPara></flowRoot>    <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';letter-spacing:0.00204969px;word-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3-3);enable-background:accumulate">ΜΠΑΜ!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 69.497434,2869.3681 c -6.82553,-70.4477 53.019506,-92.8941 178.782896,-92.3501 169.34697,0.7326 165.84117,43.7737 167.11329,85.2452 2.14923,70.0656 -86.80268,83.7178 -173.6869,80.7916 -103.60538,-3.4893 -163.207706,2.0204 -172.209286,-73.6867 z"
        id="path5026"
