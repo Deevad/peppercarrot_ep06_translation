@@ -477,8 +477,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3740595"
-     inkscape:cx="1217.6897"
-     inkscape:cy="1585.9949"
+     inkscape:cx="1170.9057"
+     inkscape:cy="837.45088"
      inkscape:window-x="1273"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -500,11 +500,11 @@
     <image
        sodipodi:absref="D:\Mes Documents\GitHub\peppercarrot\peppercarrot_ep06_translation\da\../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E06P04.png"
-       width="2646.3999"
-       height="3736.5334"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -568,8 +568,8 @@
        id="path3541"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16.42666626;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.42666667, 16.42666667;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 659.27564,1980.2395 c -7.04229,-77.1412 36.60713,-73.1618 73.64801,-88.7856 40.28445,-16.9918 380.40215,-20.8072 417.77045,21.5159 37.1935,42.1249 64.9534,116.3856 -48.6154,150.1641 -113.56876,33.7783 -310.09865,22.3747 -341.74805,14.8951 -29.91071,-7.0687 -90.32612,-37.0886 -101.05501,-97.7895 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16.93199539;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:16.93199493, 16.93199493;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 659.28333,1977.4351 c -7.11406,-81.1334 36.98017,-76.9482 74.39852,-93.3805 40.69497,-17.8713 384.27865,-21.8841 422.02775,22.6294 37.5725,44.305 65.6153,122.409 -49.1108,157.9357 -114.7261,35.5264 -313.25873,23.5327 -345.23066,15.6659 -30.21552,-7.4345 -91.24659,-39.0081 -102.08481,-102.8505 z"
        id="path3659-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -805,7 +805,7 @@
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
          id="flowPara1078">bliver talt op af</flowPara><flowPara
          style="font-size:51.20000076px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="flowPara1080">klap-o-metereret  </flowPara></flowRoot>    <flowRoot
+         id="flowPara1080">klap-o-metereret</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        id="flowRoot4212"
        xml:space="preserve"><flowRegion
