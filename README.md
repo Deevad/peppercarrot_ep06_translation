@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 06: The Potion Contest
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -63,7 +63,7 @@ License
 
 * Polish: Sölve Svartskogen
 
-* Portuguese: Frederico Batista
+* Portuguese: Frederico Batista, Alexandre E. Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 
